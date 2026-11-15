@@ -1,0 +1,632 @@
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "कृपया लाइन पर बने रहिए मैं आपकी जानकारी की जाँच कर रही हूँ।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "कृपया लाइन पर बने रहिये, मैं आपकी जानकारी की जाँच कर रही हूँ।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_04", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका कार्ड अगले सप्ताह तक आपके पते पर पहुँच जाएगा।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_04", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका कार्ड अगले सप्ताह तक आपके पते पर पहुँच जाएगा।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_05", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख बदलना चाहते हैं तो हमें बताइए"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_05", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख़ बदलना चाहते हैं तो हमें बताइये।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_06", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "हमारी सेवा चुनने के लिए धन्यवाद आपका दिन शुभ हो"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_06", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "हमारी सेवा चुनने के लिए धन्यवाद, आपका दिन शुभ हो।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_07", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "बीमा दावे के लिए अस्पताल का बिल और डॉक्टर की पर्ची ज़रूरी है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_07", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "बीमा दावे के लिए अस्पताल का बिल और डॉक्टर की पर्ची ज़रूरी है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_08", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मैं समझ सकती हूँ कि आपको परेशानी हुई इसके लिए हमें खेद है"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|hi_08", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मैं समझ सकती हूँ कि आपको परेशानी हुई, इसके लिए हमें खेद है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Thank you for calling. How may I help you today?"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "thank you for calling how may i help you today"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your request has been registered and our team will contact you shortly."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your request has been registered and our team will contact you shortly"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please keep your registered mobile number handy for verification."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please keep your registered mobile number handy for verification"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The branch will remain closed on Sunday due to scheduled maintenance."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the branch will remain closed on sunday due to scheduled maintenance"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_05", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "I understand your concern, and I will escalate this to my supervisor."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_05", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "i understand your concern and i will escalate this to my supervisor"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_06", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your insurance policy covers hospitalization and outpatient treatment."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|en_06", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your insurance policy covers hospitalization and outpatient treatment"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ta_01", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "வணக்கம் நான் உங்கள் வங்கியின் வாடிக்கையாளர் சேவையிலிருந்து பேசுகிறேன்"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ta_01", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "வணக்கம் நான் உங்கள் வங்கியின் வாடிக்கையாளர் சேவையிலிருந்து பேசுகிறேன்"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ta_02", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "உங்கள் புகார் பதிவு செய்யப்பட்டுள்ளது விரைவில் தீர்வு காணப்படும்"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ta_02", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "உங்கள் புகார் பதிவு செய்யப்பட்டுள்ளது விரைவில் தீர்வு காணப்படும்"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ta_03", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "தயவுசெய்து இணைப்பில் காத்திருங்கள் நான் உங்கள் விவரங்களை சரிபார்க்கிறேன்"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ta_03", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "தயவுசெய்து இணைப்பில் காத்திருங்கள் நான் உங்கள் விவரங்களை சரிபார்க்கிறேன்"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ta_04", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "உங்கள் அட்டை அடுத்த வாரம் உங்கள் முகவரிக்கு வந்து சேரும்"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ta_04", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "உங்கள் அட்டை அடுத்த வாரம் உங்கள் முகவரிக்கு வந்து சேரும்"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ta_05", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "எங்கள் சேவையைத் தேர்ந்தெடுத்ததற்கு நன்றி உங்கள் நாள் இனிதாக அமையட்டும்"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ta_05", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "எங்கள் சேவையை தேர்ந்தெடுத்ததற்கு நன்றி உங்கள் நாள் இனிதாக அமையட்டும்"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|te_01", "judge": "sarvam", "lang": "te-IN", "parts": 1, "transcript": "నమస్కారం నేను మీ బ్యాంక్ కస్టమర్ సర్వీస్ నుండి మాట్లాడుతున్నాను"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|te_01", "judge": "prisma", "lang": "te-IN", "parts": 1, "transcript": "నమస్కారం నేను మీ బ్యాంక్ కస్టమర్ సర్వీస్ నుండి మాట్లాడుతున్నాను"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|te_02", "judge": "sarvam", "lang": "te-IN", "parts": 1, "transcript": "మీ ఫిర్యాదు నమోదు చేయబడింది త్వరలో పరిష్కారం లభిస్తుంది"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|te_02", "judge": "prisma", "lang": "te-IN", "parts": 1, "transcript": "మీ ఫిర్యాదు నమోదు చేయబడింది త్వరలో పరిష్కారం లభిస్తుంది"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|te_03", "judge": "sarvam", "lang": "te-IN", "parts": 1, "transcript": "దయచేసి లైన్లో వేచి ఉండండి నేను మీ వివరాలు తనిఖీ చేస్తున్నాను"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|te_03", "judge": "prisma", "lang": "te-IN", "parts": 1, "transcript": "దయచేసి లైన్లో వేచి ఉండండి నేను మీ వివరాలు తనిఖీ చేస్తున్నాను"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|kn_01", "judge": "sarvam", "lang": "kn-IN", "parts": 1, "transcript": "ನಮಸ್ಕಾರ ನಾನು ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಗ್ರಾಹಕ ಸೇವೆಯಿಂದ ಮಾತನಾಡುತ್ತಿದ್ದೇನೆ"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|kn_01", "judge": "prisma", "lang": "kn-IN", "parts": 1, "transcript": "ನಮಸ್ಕಾರ ನಾನು ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಗ್ರಾಹಕ ಸೇವೆಯಿಂದ ಮಾತನಾಡುತ್ತಿದ್ದೇನೆ"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|kn_02", "judge": "sarvam", "lang": "kn-IN", "parts": 1, "transcript": "ನಿಮ್ಮ ದೂರು ದಾಖಲಾಗಿದೆ ಶೀಘ್ರದಲ್ಲೇ ಪರಿಹಾರ ಸಿಗುತ್ತದೆ"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|kn_02", "judge": "prisma", "lang": "kn-IN", "parts": 1, "transcript": "ನಿಮ್ಮ ದೂರು ದಾಖಲಾಗಿದೆ ಶೀಘ್ರದಲ್ಲೇ ಪರಿಹಾರ ಸಿಗುತ್ತದೆ"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|kn_03", "judge": "sarvam", "lang": "kn-IN", "parts": 1, "transcript": "ದಯವಿಟ್ಟು ಲೈನಲ್ಲಿ ಕಾಯಿರಿ ನಾನು ನಿಮ್ಮ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದೇನೆ"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|kn_03", "judge": "prisma", "lang": "kn-IN", "parts": 1, "transcript": "ದಯವಿಟ್ಟು ಲೈನಲ್ಲಿ ಕಾಯಿರಿ ನಾನು ನಿಮ್ಮ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದೇನೆ"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|bn_01", "judge": "sarvam", "lang": "bn-IN", "parts": 1, "transcript": "নমস্কার আমি আপনার ব্যাংকের গ্রাহক পরিষেবা থেকে বলছি"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|bn_01", "judge": "prisma", "lang": "bn-IN", "parts": 1, "transcript": "নমস্কার আমি আপনার ব্যাংকের গ্রাহক পরিষেবা থেকে বলছি"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|bn_02", "judge": "sarvam", "lang": "bn-IN", "parts": 1, "transcript": "আপনার অভিযোগ নথিভুক্ত করা হয়েছে শীঘ্রই সমাধান করা হবে"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|bn_02", "judge": "prisma", "lang": "bn-IN", "parts": 1, "transcript": "আপনার অভিযোগ নথিভুক্ত করা হয়েছে শীঘ্রই সমাধান করা হবে"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|bn_03", "judge": "sarvam", "lang": "bn-IN", "parts": 1, "transcript": "অনুগ্রহ করে লাইনে অপেক্ষা করুন আমি আপনার তথ্য যাচাই করছি"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|bn_03", "judge": "prisma", "lang": "bn-IN", "parts": 1, "transcript": "অনুগ্রহ করে লাইনে অপেক্ষা করুন আমি আপনার তথ্য যাচাই করছি"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "बिल की राशि चार हज़ार तीन सौ बारह रुपये और पचास पैसे है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "बिल की राशि चार हज़ार तीन सौ बारह रुपए और पचास पैसे है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_04", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "कंपनी का मुनाफा बारह दशमलव छः करोड़ रुपये रहा।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_04", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "कंपनी का मुनाफा बारह दशमलव छह करोड़ रुपये रहा"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_05", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "होम लोन पर ब्याज दर आठ दशमलव पाँच प्रतिशत है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_05", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "होम लोन पर ब्याज दर आठ दशमलव पांच प्रतिशत है"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_06", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "इस महीने बयालीस ग्राहकों ने शिकायत की।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_06", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "इस महीने बयालीस ग्राहकों ने शिकायत की।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_07", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "पाँच सौ निन्यानवे रुपये का रिचार्ज अट्ठाईस दिनों के लिए है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_07", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "पाँच सौ निन्यानबे रुपए का रिचार्ज अट्ठाईस दिनों के लिए है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_08", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपको पाँचवाँ किस्त अगले महीने भरनी है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_hi_08", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपको पाँचवा किस्त अगले महीने भरनी है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your EMI of fifteen thousand rupees is due next week."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your emi of fifteen thousand rupees is due next week"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "A payment of two lakh fifty thousand rupees has been credited."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "a payment of two lakh fifty thousand rupees has been credited"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The bill amount is four thousand three hundred twelve rupees and fifty paise."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the bill amount is four thousand three hundred twelve rupees and fifty paise"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Revenue grew to twelve point six crore rupees this year."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "revenue grew to twelve point six crore rupees this year"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_05", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The interest rate is eight point five percent"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_05", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the interest rate is eight point five percent"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_06", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The temperature today is thirty eight degrees Celsius."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_06", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the temperature today is thirty eight degrees celsius"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_07", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your data pack includes one point five gigabytes per day."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_07", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your data pack includes one point five gigabytes per day"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_08", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The parcel weighs two point five kilograms."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|num_en_08", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the parcel weighs two point five kilograms"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी अगली किस्त पच्चीस जून दो हज़ार छब्बीस को देय है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी अगली किस्त पच्चीस जून दो हज़ार छब्बीस को देय है"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "पॉलिसी पंद्रह जनवरी दो हज़ार सत्ताईस को समाप्त होगी।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "पॉलिसी पंद्रह जनवरी दो हजार सत्ताईस को समाप्त होगी।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "हमारा एजेंट आपको शाम पाँच बजकर तीस मिनट कॉल करेगा।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "हमारा एजेंट आपको शाम पांच बजकर तीस मिनट कॉल करेगा।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_hi_04", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "शाखा सुबह दस बजे खुलती है"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_hi_04", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "शाखा सुबह दस बजे खुलती है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your appointment is on twenty-fifth June twenty twenty-six."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your appointment is on twenty fifth june twenty twenty six"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The meeting is at five thirty p m."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the meeting is at five thirty pm"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The office closes at eight p.m."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the office closes at eight pm"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "This report covers financial year twenty twenty four twenty twenty five."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "this report covers financial year twenty twenty four twenty twenty five"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_05", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Results for quarter one of financial year twenty twenty four twenty twenty five are out."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_05", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "results for quarter one of financial year twenty twenty four twenty twenty five are out"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_06", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Only one by two of the fee is refundable."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|dt_en_06", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "only one by two of the fee is refundable"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार चार आठ आठ दो दो है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार चार आठ आठ दो दो है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_hi_04", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका खाता नंबर पाँच शून्य एक शून्य शून्य दो तीन चार पाँच छह सात है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_hi_04", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका खाता नंबर पाँच शून्य एक शून्य शून्य दो तीन चार पाँच छह सात है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "My mobile number is nine eight seven six five four three two one zero"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "my mobile number is nine eight seven six five four three two one zero"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your O T P is four eight two nine one three."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your otp is four eight two nine one three"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your O T P is four four eight eight two two."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your otp is double four double eight double two"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please call our toll free number one eight zero zero four four zero one two three four"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please call our toll free number one eight zero zero four four zero one two three four"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_05", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your PAN is A B C D E one two three four F"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_05", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your pan is a b c d e one two three four f"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_06", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The I F S C code is S B I N zero zero zero one two three four"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_06", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the ifsc code is sbin zero zero zero one two three four"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_07", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your Aadhaar number is one two three four five six seven eight nine zero one two"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_07", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your aadhaar number is one two three four five six seven eight nine zero one two"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_08", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your reference number is two zero two six zero six one five zero zero four five one two"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_08", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your reference number is two zero two six zero six one five zero zero four five one two"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_09", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your card ending four eight two one has been blocked."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_09", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your card ending four eight two one has been blocked"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_10", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Vehicle number D L one C A F five zero three one has a pending chalan"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|id_en_10", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "vehicle number d l one c a f five zero three one has a pending challenge"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "कृपया अपना के वाई सी अपडेट करें और यू पी आई से भुगतान करें।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "कृपया अपना केवाईसी अपडेट करें और यू पी आई से भुगतान करें।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "डॉक्टर शर्मा कल क्लिनिक में मिलेंगे।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "डॉक्टर शर्मा कल क्लिनिक में मिलेंगे।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Doctor Rao will see you at the clinic on M G Road."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "doctor rao will see you at the clinic on mg road"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please update your KYC to continue using UPI."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please update your kyc to continue using upi"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Mrs. Iyer works at Infosys Limited."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "mrs iyer works at infosys limited"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Saint Xavier's College is on Main Street, Mumbai."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|ab_en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "saint xavier's college is on main street mumbai"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|web_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Write to us at support at hdfcbank dot com"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|web_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "write to us at support at hdfc bank dot com"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|web_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Visit www.divu dot w dot m for more details."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|web_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "visit www dot w dot in for more details"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|web_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Pay to nine eight seven six five four three two one zero at Y B L using any U P I app"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|web_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "pay to nine eight seven six five four three two one zero at ybl using any upi app"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|web_en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Our helpline is available twenty four seven."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|web_en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "our helpline is available twenty four seven"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|web_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "हमारी हेल्पलाइन चौबीस सात उपलब्ध है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|web_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "हमारी हेल्पलाइन चौबीस सात उपलब्ध है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपका पेमेंट पेंडिंग है। प्लीज़ आज ही पे कर दीजिए।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर आपका पेमेंट पेंडिंग है, प्लीज आज ही पे कर दीजिए।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका लोन अप्रूवल प्रोसेस में है दो वर्किंग डेज़ लगेंगे"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका लोन अप्रूवल प्रोसेस में है, दो वर्किंग डेज़ लगेंगे।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मेरा अकाउंट ब्लॉक हो गया है। प्लीज़ इसे अनब्लॉक कर दीजिए।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मेरा अकाउंट ब्लॉक हो गया है, प्लीज इसे अनब्लॉक कर दीजिए।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_04", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका पेमेंट अभी तक पेंडिंग है कृपया आज ही पे कर दीजिए।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_04", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका पेमेंट अभी तक पेंडिंग है, कृपया आज ही पे कर दीजिए।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_05", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपका कार्ड डिस्पैच हो गया है। दो दिन में डिलीवर हो जाएगा।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_05", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर आपका कार्ड डिस्पैच हो गया है, दो दिन में डिलीवर हो जाएगा।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_06", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मैं आपकी मदद कर सकती हूँ बस अपना रजिस्टर्ड मोबाइल नंबर बताइए।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|cs_06", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मैं आपकी मदद कर सकती हूँ, बस अपना रजिस्टर्ड मोबाइल नंबर बताइये।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Thiruvananthapuram and Visakhapatnam are major cities."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "thiruvananthapuram and visakhapatnam are major cities"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please connect me to Mr. Venkat Raghavan from the Coimbatore branch."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please connect me to mister venkataraghavan from the coimbatore branch"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your H D F C Bank and I C I C I Bank accounts are linked."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your hdfc bank and icici bank accounts are linked"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "श्री वेंकटेश्वर राव जी, आपका स्वागत है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "श्री वेंकटेश्वर राव जी, आपका स्वागत है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में हैं।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में हैं"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|nm_hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|lf_hi", "judge": "sarvam", "lang": "hi-IN", "parts": 2, "transcript": "नमस्ते आपकी बीमा पॉलिसी के नवीनीकरण के बारे में जानकारी देने के लिए हम आपसे संपर्क कर रहे हैं आपकी पॉलिसी अगले महीने समाप्त हो रही है इसलिए समय पर प्रीमियम जमा करना ज़रूरी है ताकि आपका बीमा कवर बिना रुकावट जारी रहे आप हमारी वेबसाइट मोबाइल ऐप या नज़दीकी शाखा में जाकर भुगतान कर सकते हैं अगर आपने हाल ही में अपना पता या मोबाइल नंबर बदला है तो कृपया उसे भी अपडेट करवा लें ताकि ज़रूरी सूचनाएँ आप तक समय पर पहुँच सकें अगर आपको प्रीमियम की राशि या भुगतान के तरीके के बारे में कोई संदेह है तो हमारी ग्राहक सेवा टीम आपकी पूरी मदद करेगी हमारी टीम हर दिन सुबह से रात तक उपलब्ध रहती है और आप हमें कभी भी कॉल कर सकते हैं हमें अपनी सेवा का अवसर देने के लिए धन्यवाद"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|lf_hi", "judge": "prisma", "lang": "hi-IN", "parts": 2, "transcript": "नमस्ते आपकी बीमा पॉलिसी के नवीनीकरण के बारे में जानकारी देने के लिए हम आपसे संपर्क कर रहे हैं आपकी पॉलिसी अगले महीने समाप्त हो रही है इसलिए समय पर प्रीमियम जमा करना ज़रूरी है ताकि आपका बीमा कवर बिना रुकावट जारी रहे आप हमारी वेबसाइट मोबाइल ऐप या नज़दीकी शाखा में जाकर भुगतान कर सकते हैं अगर आपने हाल ही में अपना पता या मोबाइल नंबर बदला है तो कृपया उसे भी अपडेट करवा लें ताकि ज़रूरी सूचनाएं आप तक समय पर पहुँच सके अगर आपको प्रीमियम की राशि या भुगतान के तरीके के बारे में कोई संदेह है तो हमारी ग्राहक सेवा टीम आपकी पूरी मदद करेगी, हमारी टीम हर दिन सुबह से रात तक उपलब्ध रहती है और आप हमें कभी भी कॉल कर सकते हैं हमें अपनी सेवा का अवसर देने के लिए  धन्यवाद"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|lf_en", "judge": "sarvam", "lang": "en-IN", "parts": 2, "transcript": "Thank you for calling customer care. We would like to inform you about some important changes to your savings account. Starting next month, the minimum balance requirement will be revised, and a monthly statement will be sent to your registered email address instead of a printed copy. If you would prefer to continue receiving printed statements, you can request this through our mobile application or at any branch. We also recommend that you enable two factor authentication for online banking.\nAs it adds an extra layer of protection to your account.\nPlease remember that our staff will never ask you for your password or one time password over the phone.\nIf you receive any suspicious call or message, report it to us immediately through the helpline.\nWe appreciate your trust in our bank and look forward to serving you."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|lf_en", "judge": "prisma", "lang": "en-IN", "parts": 2, "transcript": "thank you for calling customer care we would like to inform you about some important changes to your savings account starting next month the minimum balance requirement will be revised and a monthly statement will be sent to your registered email address instead of a printed copy if you would prefer to continue receiving printed statements you can request this through our mobile application or at any branch we also recommend that you enable two factor authentication for online banking as it adds an extra layer of protection to your account please remember that our staff will never ask you for your password or one time password over the phone if you receive any suspicious call or message report it to us immediately through the helpline we appreciate your trust in our bank and look forward to serving you"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|lf_cs", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|lf_cs", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_01_stmt", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आप कल शाखा आएंगे।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_01_stmt", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आप कल शाखा आएंगे"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_01_ques", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आप कल शाखा आएंगे"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_01_ques", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आप कल शाखा आएंगे?"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_02_stmt", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका भुगतान हो गया है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_02_stmt", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका भुगतान हो गया है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_02_ques", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका भुगतान हो गया है"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_02_ques", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका भुगतान हो गया है"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_03_stmt", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपको नया कार्ड चाहिए"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_03_stmt", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपको नया कार्ड चाहिए।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_03_ques", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपको नया कार्ड चाहिए"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_hi_03_ques", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपको नया कार्ड चाहिए?"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_en_01_stmt", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "You received the payment."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_en_01_stmt", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "you received the payment"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_en_01_ques", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "You received the payment?"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_en_01_ques", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "you received the payment"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_en_02_stmt", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your address is the same."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_en_02_stmt", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your address is the same"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_en_02_ques", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your address is the same?"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|q_en_02_ques", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your address is the same"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_pauses", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Let me check that for you. Found it. Your order ships tomorrow."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_pauses", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "let me check that for you found it your order ships tomorrow"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_pauses_ctl", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Let me check that for you. Found it. Your order ships tomorrow."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_pauses_ctl", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "let me check that for you found it your order ships tomorrow"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_whispers", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please hold on. Your order is almost ready."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_whispers", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please hold on your order is almost ready"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_whispers_ctl", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please hold on. Your order is almost ready."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_whispers_ctl", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please hold on your order is almost ready"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_shouting", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "This is a final reminder to pay your dues."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_shouting", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "this is a final reminder to pay your dues"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_shouting_ctl", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "This is a final reminder to pay your dues."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_shouting_ctl", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "this is a final reminder to pay your dues"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_slow", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please note your reference number carefully."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_slow", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please note your reference number carefully"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_slow_ctl", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please note your reference number carefully."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_slow_ctl", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please note your reference number carefully"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_laugh", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका ऑर्डर आ गया है बहुत अच्छा चुनाव किया आपने।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_laugh", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका ऑर्डर आ गया है, बहुत अच्छा चुनाव किया आपने"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_laugh_ctl", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका ऑर्डर आ गया है बहुत अच्छा चुनाव किया आपने"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_laugh_ctl", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका ऑर्डर आ गया है, बहुत अच्छा चुनाव किया आपने?"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_sigh", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "I understand. These things happen."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_sigh", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "i understand these things happen"}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_sigh_ctl", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "I understand, these things happen."}
+{"key": "timbre-v3.0|Shivani|wav24k|r1|tag_sigh_ctl", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "i understand these things happen"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "कृपया लाइन पर बने रहिए मैं आपकी जानकारी की जाँच कर रही हूँ"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "कृपया लाइन पर बने रहिये, मैं आपकी जानकारी की जाँच कर रही हूँ।"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your request has been registered and our team will contact you shortly."}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your request has been registered and our team will contact you shortly"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please keep your registered mobile number handy for verification."}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please keep your registered mobile number handy for verification"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|num_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "A payment of two lakh fifty thousand rupees has been credited."}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|num_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "a payment of two lakh fifty thousand rupees has been credited"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|id_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|id_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|id_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "My mobile number is nine eight seven six five four three two one zero."}
+{"key": "timbre-v3.0|Shivani|mulaw8k|r1|id_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "my mobile number is nine eight seven six five four three two one zero"}
+{"key": "timbre-v3.0|Shivani|wav24k|r2|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ"}
+{"key": "timbre-v3.0|Shivani|wav24k|r2|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r3|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ"}
+{"key": "timbre-v3.0|Shivani|wav24k|r3|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r2|en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your request has been registered and our team will contact you shortly."}
+{"key": "timbre-v3.0|Shivani|wav24k|r2|en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your request has been registered and our team will contact you shortly"}
+{"key": "timbre-v3.0|Shivani|wav24k|r3|en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your request has been registered and our team will contact you shortly."}
+{"key": "timbre-v3.0|Shivani|wav24k|r3|en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your request has been registered and our team will contact you shortly"}
+{"key": "timbre-v3.0|Shivani|wav24k|r2|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r2|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं"}
+{"key": "timbre-v3.0|Shivani|wav24k|r3|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r3|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं"}
+{"key": "timbre-v3.0|Shivani|wav24k|r2|id_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r2|id_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r3|id_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r3|id_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|hi_05", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख बदलना चाहते हैं तो हमें बताइए"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|hi_05", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख बदलना चाहते हैं तो हमें बताइये।"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|hi_05", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख़ बदलना चाहते हैं तो हमें बताइए।"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|hi_05", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख़ बदलना चाहते हैं, तो हमें बताइये।"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|num_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|num_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|num_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|num_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|id_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छः पाँच चार तीन दो एक शून्य है"}
+{"key": "timbre-v3.0|Avinash|wav24k|r1|id_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|id_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छः पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v3.0|Tarika|wav24k|r1|id_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "कृपया लाइन पर बने रहिए मैं आपकी जानकारी की जाँच कर रही हूँ।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "कृपया लाइन पर बने रहिये, मैं आपकी जानकारी की जाँच कर रही हूँ।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_04", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका कार्ड अगले सप्ताह तक आपके पते पर पहुँच जाएगा।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_04", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका कार्ड अगले सप्ताह तक आपके पते पर पहुँच जाएगा।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_05", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख बदलना चाहते हैं तो हमें बताइए।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_05", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख़ बदलना चाहते हैं तो हमें बताइये।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_06", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "हमारी सेवा चुनने के लिए धन्यवाद आपका दिन शुभ हो।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_06", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "हमारी सेवा चुनने के लिए धन्यवाद, आपका दिन शुभ हो।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_07", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "बीमा दावे के लिए अस्पताल का बिल और डॉक्टर की पर्ची ज़रूरी है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_07", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "बीमा दावे के लिए अस्पताल का बिल और डॉक्टर की पर्ची ज़रूरी है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_08", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मैं समझ सकती हूँ कि आपको परेशानी हुई इसके लिए हमें खेद है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|hi_08", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मैं समझ सकती हूँ कि आपको परेशानी हुई इसके लिए हमें खेद है।"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Thank you for calling. How may I help you today?"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "thank you for calling how may i help you today"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your request has been registered and our team will contact you shortly."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your request has been registered and our team will contact you shortly"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please keep your registered mobile number handy for verification."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please keep your registered mobile number handy for verification"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The branch will remain closed on Sunday due to scheduled maintenance."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the branch will remain closed on sunday due to scheduled maintenance"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_05", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "I understand your concern, and I will escalate this to my supervisor."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_05", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "i understand your concern and i will escalate this to my supervisor"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_06", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your insurance policy covers hospitalization and outpatient treatment."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|en_06", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your insurance policy covers hospitalization and outpatient treatment"}
+{"key": "timbre-v2.5|Vedika|wav24k|r1|ta_01", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "வணக்கம் நான் உங்கள் வங்கியின் வாடிக்கையாளர் சேவையிலிருந்து பேசுகிறேன்"}
+{"key": "timbre-v2.5|Vedika|wav24k|r1|ta_01", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "வணக்கம் நான் உங்கள் வங்கியின் வாடிக்கையாளர் சேவையிலிருந்து பேசுகிறேன்"}
+{"key": "timbre-v2.5|Vedika|wav24k|r1|ta_02", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "உங்கள் புகார் பதிவு செய்யப்பட்டுள்ளது விரைவில் தீர்வு காணப்படும்"}
+{"key": "timbre-v2.5|Vedika|wav24k|r1|ta_02", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "உங்கள் புகார் பதிவு செய்யப்பட்டுள்ளது விரைவில் தீர்வு காணப்படும்"}
+{"key": "timbre-v2.5|Vedika|wav24k|r1|ta_03", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "தயவுசெய்து இணைப்பில் காத்திருங்கள் நான் உங்கள் விவரங்களை சரிபார்க்கிறேன்"}
+{"key": "timbre-v2.5|Vedika|wav24k|r1|ta_03", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "தயவுசெய்து இணைப்பில் காத்திருங்கள் நான் உங்கள் விவரங்களை சரிபார்க்கிறேன்"}
+{"key": "timbre-v2.5|Vedika|wav24k|r1|ta_04", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "உங்கள் அட்டை அடுத்த வாரம் உங்கள் முகவரிக்கு வந்து சேரும்"}
+{"key": "timbre-v2.5|Vedika|wav24k|r1|ta_04", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "உங்கள் அட்டை அடுத்த வாரம் உங்கள் முகவரிக்கு வந்து சேரும்"}
+{"key": "timbre-v2.5|Vedika|wav24k|r1|ta_05", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "எங்கள் சேவையைத் தேர்ந்தெடுத்ததற்கு நன்றி உங்கள் நாள் இனிதாக அமையட்டும்"}
+{"key": "timbre-v2.5|Vedika|wav24k|r1|ta_05", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "எங்கள் சேவையை தேர்ந்தெடுத்ததற்கு நன்றி உங்கள் நாள் இனிதாக அமையட்டும்"}
+{"key": "timbre-v2.5|Varuni|wav24k|r1|te_01", "judge": "sarvam", "lang": "te-IN", "parts": 1, "transcript": "నమస్కారం నేను మీ బ్యాంక్ కస్టమర్ సర్వీస్ నుండి మాట్లాడుతున్నాను"}
+{"key": "timbre-v2.5|Varuni|wav24k|r1|te_01", "judge": "prisma", "lang": "te-IN", "parts": 1, "transcript": "నమస్కారం నేను మీ బ్యాంక్ కస్టమర్ సర్వీస్ నుండి మాట్లాడుతున్నాను"}
+{"key": "timbre-v2.5|Varuni|wav24k|r1|te_02", "judge": "sarvam", "lang": "te-IN", "parts": 1, "transcript": "మీ ఫిర్యాదు నమోదు చేయబడింది త్వరలో పరిష్కారం లభిస్తుంది"}
+{"key": "timbre-v2.5|Varuni|wav24k|r1|te_02", "judge": "prisma", "lang": "te-IN", "parts": 1, "transcript": "మీ ఫిర్యాదు నమోదు చేయబడింది త్వరలో పరిష్కారం లభిస్తుంది"}
+{"key": "timbre-v2.5|Varuni|wav24k|r1|te_03", "judge": "sarvam", "lang": "te-IN", "parts": 1, "transcript": "దయచేసి లైన్లో వేచి ఉండండి నేను మీ వివరాలు తనిఖీ చేస్తున్నాను"}
+{"key": "timbre-v2.5|Varuni|wav24k|r1|te_03", "judge": "prisma", "lang": "te-IN", "parts": 1, "transcript": "దయచేసి లైన్లో వేచి ఉండండి నేను మీ వివరాలు తనిఖీ చేస్తున్నాను"}
+{"key": "timbre-v2.5|Saanvi|wav24k|r1|kn_01", "judge": "sarvam", "lang": "kn-IN", "parts": 1, "transcript": "ನಮಸ್ಕಾರ ನಾನು ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಗ್ರಾಹಕ ಸೇವೆಯಿಂದ ಮಾತನಾಡುತ್ತಿದ್ದೇನೆ"}
+{"key": "timbre-v2.5|Saanvi|wav24k|r1|kn_01", "judge": "prisma", "lang": "kn-IN", "parts": 1, "transcript": "ನಮಸ್ಕಾರ ನಾನು ನಿಮ್ಮ ಬ್ಯಾಂಕ್ ಗ್ರಾಹಕ ಸೇವೆಯಿಂದ ಮಾತನಾಡುತ್ತಿದ್ದೇನೆ"}
+{"key": "timbre-v2.5|Saanvi|wav24k|r1|kn_02", "judge": "sarvam", "lang": "kn-IN", "parts": 1, "transcript": "ನಿಮ್ಮ ದೂರು ದಾಖಲಾಗಿದೆ ಶೀಘ್ರದಲ್ಲೇ ಪರಿಹಾರ ಸಿಗುತ್ತದೆ"}
+{"key": "timbre-v2.5|Saanvi|wav24k|r1|kn_02", "judge": "prisma", "lang": "kn-IN", "parts": 1, "transcript": "ನಿಮ್ಮ ದೂರು ದಾಖಲಾಗಿದೆ ಶೀಘ್ರದಲ್ಲೇ ಪರಿಹಾರ ಸಿಗುತ್ತದೆ"}
+{"key": "timbre-v2.5|Saanvi|wav24k|r1|kn_03", "judge": "sarvam", "lang": "kn-IN", "parts": 1, "transcript": "ದಯವಿಟ್ಟು ಲೈನ್ನಲ್ಲಿ ಕಾಯಿರಿ ನಾನು ನಿಮ್ಮ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದೇನೆ"}
+{"key": "timbre-v2.5|Saanvi|wav24k|r1|kn_03", "judge": "prisma", "lang": "kn-IN", "parts": 1, "transcript": "ದಯವಿಟ್ಟು ಲೈನ್ನಲ್ಲಿ ಕಾಯಿರಿ ನಾನು ನಿಮ್ಮ ವಿವರಗಳನ್ನು ಪರಿಶೀಲಿಸುತ್ತಿದ್ದೇನೆ"}
+{"key": "timbre-v2.5|Kirra|wav24k|r1|bn_01", "judge": "sarvam", "lang": "bn-IN", "parts": 1, "transcript": "নমস্কার আমি আপনার ব্যাংকের গ্রাহক পরিষেবা থেকে বলছি"}
+{"key": "timbre-v2.5|Kirra|wav24k|r1|bn_01", "judge": "prisma", "lang": "bn-IN", "parts": 1, "transcript": "নমস্কার আমি আপনার ব্যাংকের গ্রাহক পরিষেবা থেকে বলছি"}
+{"key": "timbre-v2.5|Kirra|wav24k|r1|bn_02", "judge": "sarvam", "lang": "bn-IN", "parts": 1, "transcript": "আপনার অভিযোগ নথিভুক্ত করা হয়েছে শীঘ্রই সমাধান করা হবে"}
+{"key": "timbre-v2.5|Kirra|wav24k|r1|bn_02", "judge": "prisma", "lang": "bn-IN", "parts": 1, "transcript": "আপনার অভিযোগ নথিভুক্ত করা হয়েছে শীঘ্রই সমাধান করা হবে"}
+{"key": "timbre-v2.5|Kirra|wav24k|r1|bn_03", "judge": "sarvam", "lang": "bn-IN", "parts": 1, "transcript": "অনুগ্রহ করে লাইনে অপেক্ষা করুন আমি আপনার তথ্য যাচাই করছি"}
+{"key": "timbre-v2.5|Kirra|wav24k|r1|bn_03", "judge": "prisma", "lang": "bn-IN", "parts": 1, "transcript": "অনুগ্রহ করে লাইনে অপেক্ষা করুন আমি আপনার তথ্য যাচাই করছি"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पांच सौ रुपये है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "बिल की राशि चार हज़ार तीन सौ बारह रुपये और पचास पैसे है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "बिल की राशि चार हज़ार तीन सौ बारह रुपए और पचास पैसे है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_04", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "कंपनी का मुनाफा बारह दशमलव छह करोड़ रुपये रहा।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_04", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "कंपनी का मुनाफा बारह दशमलव छह करोड़ रुपये रहा।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_05", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "होम लोन पर ब्याज दर आठ दशमलव पाँच प्रतिशत है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_05", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "होम लोन पर ब्याज दर आठ दशमलव पांच प्रतिशत है"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_06", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "इस महीने बयालीस ग्राहकों ने शिकायत की।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_06", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "इस महीने बयालीस ग्राहकों ने शिकायत की।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_07", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "पाँच सौ निन्यानवे रुपये का रिचार्ज अट्ठाईस दिनों के लिए है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_07", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "पाँच सौ निन्यानबे रुपये का रिचार्ज अट्ठाईस दिनों के लिए है"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_08", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपको पाँचवाँ किस्त अगले महीने भरनी है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|num_hi_08", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपको पाँचवाँ किस्त अगले महीने भरनी है।"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your EMI of fifteen thousand rupees is due next week."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your emi of fifteen thousand rupees is due next week"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "A payment of two lakh fifty thousand rupees has been credited."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "a payment of two lakh fifty thousand rupees has been credited"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The bill amount is four thousand three hundred twelve rupees and fifty paise."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the bill amount is four thousand three hundred twelve rupees and fifty paise"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Revenue grew to twelve point six crore rupees this year."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "revenue grew to twelve point six crore rupees this year"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_05", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The interest rate is eight point five percent."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_05", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the interest rate is eight point five percent"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_06", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The temperature today is thirty eight degrees Celsius."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_06", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the temperature today is thirty eight degrees celsius"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_07", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your data pack includes one point five gigabytes per day."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_07", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your data pack includes one point five gigabytes per day"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_08", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The parcel weighs two point five kilograms."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|num_en_08", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the parcel weighs two point five kilograms"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|dt_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी अगली किस्त पच्चीस जून दो हज़ार छब्बीस को देय है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|dt_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी अगली किस्त पच्चीस जून दो हज़ार छब्बीस को देय है"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|dt_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "पॉलिसी पंद्रह जनवरी दो हज़ार सत्ताईस को समाप्त होगी।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|dt_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "पॉलिसी पंद्रह जनवरी दो हजार सत्ताईस को समाप्त होगी।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|dt_hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "हमारा एजेंट आपको शाम पाँच बजकर तीस मिनट कॉल करेगा।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|dt_hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "हमारा एजेंट आपको शाम पांच बजकर तीस मिनट कॉल करेगा।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|dt_hi_04", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "शाखा सुबह दस बजे खुलती है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|dt_hi_04", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "शाखा सुबह दस बजे खुलती है।"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your appointment is on twenty fifth June twenty twenty six."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your appointment is on twenty fifth june twenty twenty six"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The meeting is at five thirty p.m."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the meeting is at five thirty pm"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The office closes at eight p m"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the office closes at eight pm"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "This report covers financial year twenty twenty four twenty twenty five."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "this report covers financial year twenty twenty four twenty twenty five"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_05", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Results for quarter one of financial year twenty twenty four twenty twenty five are out."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_05", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "results for quarter one of financial year twenty twenty four twenty twenty five are out"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_06", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Only one by two of the fee is refundable."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|dt_en_06", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "only one by two of the fee is refundable"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|id_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|id_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|id_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|id_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|id_hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार चार आठ आठ दो दो है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|id_hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार चार आठ आठ दो दो है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|id_hi_04", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका खाता नंबर पाँच शून्य एक शून्य शून्य दो तीन चार पाँच छह सात है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|id_hi_04", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका खाता नंबर पाँच शून्य एक शून्य शून्य दो तीन चार पाँच छह सात है।"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "My mobile number is nine eight seven six five four three two one zero"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "my mobile number is nine eight seven six five four three two one zero"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your O T P is four eight two nine one three"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your otp is four eight two nine one three"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your O T P is double four double eight double two"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your otp is double four double eight double two"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please call our toll free number one eight zero zero four four zero one two three four"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please call our toll free number one eight zero zero four four zero one two three four"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_05", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your PAN is a b c d e one two three four f"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_05", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your pan is a b c d e one two three four f"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_06", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The I F S C Code is S B I N zero zero zero one two three four"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_06", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the ifsc code is sbin zero zero zero one two three four"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_07", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your Aadhaar number is one two three four five six seven eight nine zero one two"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_07", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your aadhaar number is one two three four five six seven eight nine zero one two"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_08", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your reference number is two zero two six zero six one five zero zero four five one two"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_08", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your reference number is two zero two six zero six one five zero zero four five one two"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_09", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your card ending four eight two one has been blocked"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_09", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your card ending four eight two one has been blocked"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_10", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Vehicle number D L one C A F five zero three one has a pending challan"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|id_en_10", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "vehicle number d l one caf five zero three one has a pending challenge"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|ab_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "कृपया अपना के वाई सी अपडेट करें और यू पी आई से भुगतान करें।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|ab_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "कृपया अपना केवाईसी अपडेट करें और यू पी आई से भुगतान करें।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|ab_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "डॉक्टर शर्मा कल क्लिनिक में मिलेंगे।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|ab_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "डॉक्टर शर्मा कल क्लिनिक में मिलेंगे।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|ab_hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|ab_hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|ab_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Doctor Rao will see you at the clinic on M G Road."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|ab_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "doctor rao will see you at the clinic on mg road"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|ab_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please update your KYC to continue using UPI."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|ab_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please update your kyc to continue using upi"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|ab_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Mrs. Iyer works at Infosys Limited."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|ab_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "mrs iyer works at infosys limited"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|ab_en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Saint Xavier's College is on Main Street Mumbai"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|ab_en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "saint xavier's college is on main street mumbai"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|web_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Write to us at s u p p o r t at h d f bank dot com"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|web_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "write to us at sup p o r t at hdfc bank dot com"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|web_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Visit www dot gov dot in for more details"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|web_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "visit www dot gov dot in for more details"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|web_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Pay to nine eight seven six five four three two one zero at Y B L using any U P I app"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|web_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "pay to nine eight seven six five four three two one zero at ybl using any upi app"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|web_en_04", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Our helpline is available twenty four seven"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|web_en_04", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "our helpline is available twenty four seven"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|web_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "हमारी हेल्पलाइन चौबीस सात उपलब्ध है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|web_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "हमारी हेल्पलाइन चौबीस सात उपलब्ध है।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपका पेमेंट पेंडिंग है प्लीज़ आज ही पे कर दीजिए।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर आपका पेमेंट पेंडिंग है, प्लीज आज ही पे कर दीजिए"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका लोन अप्रूवल प्रोसेस में है दो वर्किंग डेज़ लगेंगे।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका लोन अप्रूवल प्रोसेस में है, दो वर्किंग डेज़ लगेंगे।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मेरा अकाउंट ब्लॉक हो गया है प्लीज इसे अनब्लॉक कर दीजिए।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मेरा अकाउंट ब्लॉक हो गया है, प्लीज इसे अनब्लॉक कर दीजिए।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_04", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका पेमेंट अभी तक पेंडिंग है कृपया आज ही पे कर दीजिए।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_04", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका पेमेंट अभी तक पेंडिंग है, कृपया आज ही पे कर दीजिए।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_05", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपका कार्ड डिस्पैच हो गया है दो दिन में डिलीवर हो जाएगा।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_05", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर, आपका कार्ड डिसपैच हो गया है, दो दिन में डिलीवर हो जाएगा।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_06", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मैं ना आपकी मदद कर सकती हूँ बस अपना रजिस्टर्ड मोबाइल नंबर बताइए।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|cs_06", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मैं न आपकी मर्दार कर सकती हूँ, बस अपना रजिस्टर्ड मोबाइल नंबर बताइये।"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|nm_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Thiruvananthapuram and Visakhapatnam are major cities."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|nm_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "thiruvananthapuram and visakhapatnam are major cities"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|nm_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please connect me to Mr. Venkataraghavan from the Coimbatore branch."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|nm_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please connect me to mister venkataraghavan from the coimbatore branch"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|nm_en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your H D F C Bank and I C I C I Bank accounts are linked."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|nm_en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your hdfc bank and icici bank accounts are linked"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|nm_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "श्री वेंकटेश्वर राव जी आपका स्वागत है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|nm_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "श्री वेंकटेश्वर राव जी आपका स्वागत है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|nm_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में हैं।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|nm_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|nm_hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|nm_hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|lf_hi", "judge": "sarvam", "lang": "hi-IN", "parts": 2, "transcript": "नमस्ते आपकी बीमा पॉलिसी के नवीनीकरण के बारे में जानकारी देने के लिए हम आपसे संपर्क कर रहे हैं आपकी पॉलिसी अगले महीने समाप्त हो रही है इसलिए समय पर प्रीमियम जमा करना ज़रूरी है ताकि आपका बीमा कवर बिना रुकावट जारी रहे आप हमारी वेबसाइट मोबाइल ऐप या नज़दीकी शाखा में जाकर भुगतान कर सकते हैं अगर आपने हाल ही में अपना पता या मोबाइल नंबर बदला है तो कृपया उसे भी अपडेट करवा लें। ताकि ज़रूरी सूचनाएँ आप तक समय पर पहुँच सकें अगर आपको प्रीमियम की राशि या भुगतान के तरीके के बारे में कोई संदेह है तो हमारी ग्राहक सेवा टीम आपकी पूरी मदद करेगी हमारी टीम हर दिन सुबह से रात तक उपलब्ध रहती है और आप हमें कभी भी कॉल कर सकते हैं हमें अपनी सेवा का अवसर देने के लिए धन्यवाद।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|lf_hi", "judge": "prisma", "lang": "hi-IN", "parts": 2, "transcript": "नमस्ते आपकी बीमा पॉलिसी के नवीनीकरण के बारे में जानकारी देने के लिए हम आपसे संपर्क कर रहे हैं आपकी पॉलिसी अगले महीने समाप्त हो रही है इसलिए समय पर प्रीमियम जमा करना ज़रूरी है ताकि आपका बीमा कवर बिना रुकावट जारी रहे, आप हमारी वेबसाइट, मोबाइल एप या नजदीकी शाखा में जाकर भुगतान कर सकते हैं। अगर आपने हाल ही में अपना पता या मोबाइल नंबर बदला है तो कृपया उसे भी अपडेट करवा लें ताकि ज़रूरी सूचनाएँ आप तक समय पर पहुँच सकें, अगर आपको प्रीमियम की राशि या भुगतान के तरीके के बारे में कोई संदेह है तो हमारी ग्राहक सेवा टीम आपकी पूरी मदद करेगी, हमारी टीम हर दिन सुबह से रात तक उपलब्ध रहती है और आप हमें कभी भी कॉल कर सकते हैं हमें अपनी सेवा का अवसर देने के लिए धन्यवाद"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|lf_en", "judge": "sarvam", "lang": "en-IN", "parts": 2, "transcript": "Thank you for calling customer care. We would like to inform you about some important changes to your savings account. Starting next month, the minimum balance requirement will be revised, and a monthly statement will be sent to your registered email address instead of a printed copy. If you would prefer to continue receiving printed statements, you can request this through our mobile application or at any branch. We also recommend that you enable two factor authentication for online banking, as it adds an extra layer of protection to your account. Please remember that our staff will never ask you for your password or one time password over the phone. If you receive any suspicious call or message, report it to us immediately through the helpline. We appreciate your trust in our bank and look forward to serving you."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|lf_en", "judge": "prisma", "lang": "en-IN", "parts": 2, "transcript": "thank you for calling customer care we would like to inform you about some important changes to your savings account starting next month the minimum balance requirement will be revised and a monthly statement will be sent to your registered email address instead of a printed copy if you would prefer to continue receiving printed statements you can request this through our mobile application or at any branch we also recommend that you enable two factor authentication for online banking as it adds an extra layer of protection to your account please remember that our staff will never ask you for your password or one time password over the phone if you receive any suspicious call or message report it to us immediately through the helpline we appreciate your trust in our bank and look forward to serving you"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|lf_cs", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r1|lf_cs", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_01_stmt", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आप कल शाखा आएंगे।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_01_stmt", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आप कल शाखा आएंगे।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_01_ques", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आप कल शाखा आएंगे"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_01_ques", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आप कल शाखा आएंगे?"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_02_stmt", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका भुगतान हो गया है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_02_stmt", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका भुगतान हो गया है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_02_ques", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका भुगतान हो गया है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_02_ques", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका भुगतान हो गया है"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_03_stmt", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपको नया कार्ड चाहिए"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_03_stmt", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपको नया कार्ड चाहिए।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_03_ques", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपको नया कार्ड चाहिए"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|q_hi_03_ques", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपको नया कार्ड चाहिए।"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|q_en_01_stmt", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "You received the payment."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|q_en_01_stmt", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "you receive the payment"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|q_en_01_ques", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "You received the payment?"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|q_en_01_ques", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "you received the payment"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|q_en_02_stmt", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your address is the same."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|q_en_02_stmt", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your address is the same"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|q_en_02_ques", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your address is the same?"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|q_en_02_ques", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your address is the same"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|tag_laugh", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका ऑर्डर आ गया है बहुत अच्छा चुनाव किया आपने।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r1|tag_laugh", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका ऑर्डर आ गया है, बहुत अच्छा चुनाव किया आपने।"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|tag_sigh", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "I understand, these things happen."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r1|tag_sigh", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "i understand these things happen"}
+{"key": "timbre-v2.5|Nalini|mulaw8k|r1|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v2.5|Nalini|mulaw8k|r1|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v2.5|Nalini|mulaw8k|r1|hi_03", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "कृपया लाइन पर बने रहिए मैं आपकी जानकारी की जाँच कर रही हूँ।"}
+{"key": "timbre-v2.5|Nalini|mulaw8k|r1|hi_03", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "कृपया लाइन पर बने रहिये, मैं आपकी जानकारी की जाँच कर रही हूँ।"}
+{"key": "timbre-v2.5|Kaveri|mulaw8k|r1|en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your request has been registered and our team will contact you shortly."}
+{"key": "timbre-v2.5|Kaveri|mulaw8k|r1|en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your request has been registered and our team will contact you shortly"}
+{"key": "timbre-v2.5|Kaveri|mulaw8k|r1|en_03", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Please keep your registered mobile number handy for verification."}
+{"key": "timbre-v2.5|Kaveri|mulaw8k|r1|en_03", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "please keep your registered mobile number handy for verification"}
+{"key": "timbre-v2.5|Nalini|mulaw8k|r1|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v2.5|Nalini|mulaw8k|r1|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं"}
+{"key": "timbre-v2.5|Kaveri|mulaw8k|r1|num_en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "A payment of two lakh fifty thousand rupees has been credited."}
+{"key": "timbre-v2.5|Kaveri|mulaw8k|r1|num_en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "a payment of two lakh fifty thousand rupees has been credited"}
+{"key": "timbre-v2.5|Nalini|mulaw8k|r1|id_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v2.5|Nalini|mulaw8k|r1|id_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v2.5|Kaveri|mulaw8k|r1|id_en_01", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "My mobile number is nine eight seven six five four three two one zero."}
+{"key": "timbre-v2.5|Kaveri|mulaw8k|r1|id_en_01", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "my mobile number is nine eight seven six five four three two one zero"}
+{"key": "timbre-v2.5|Nalini|wav24k|r2|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r2|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r3|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r3|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r2|en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your request has been registered and our team will contact you shortly."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r2|en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your request has been registered and our team will contact you shortly"}
+{"key": "timbre-v2.5|Kaveri|wav24k|r3|en_02", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Your request has been registered and our team will contact you shortly."}
+{"key": "timbre-v2.5|Kaveri|wav24k|r3|en_02", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "your request has been registered and our team will contact you shortly"}
+{"key": "timbre-v2.5|Nalini|wav24k|r2|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r2|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r3|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r3|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं"}
+{"key": "timbre-v2.5|Nalini|wav24k|r2|id_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r2|id_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r3|id_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v2.5|Nalini|wav24k|r3|id_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपका ओ टी पी चार आठ दो नौ एक तीन है।"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "नमस्ते, मैं आपके बैंक की ग्राहक सेवा से बात कर रही हूँ।"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी शिकायत दर्ज कर ली गई है और जल्द ही इसका समाधान किया जाएगा।"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|hi_05", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख बदलना चाहते हैं तो हमें बताइए।"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|hi_05", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख बदलना चाहते हैं तो हमें बताइये।"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|hi_05", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख बदलना चाहते हैं तो हमें बताइए।"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|hi_05", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "अगर आप भुगतान की तारीख़ बदलना चाहते हैं तो हमें बताइये।"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|num_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|num_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पांच सौ रुपए है।"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|num_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|num_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपकी ई एम आई बारह हज़ार पांच सौ रुपए है।"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|num_hi_02", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|num_hi_02", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|id_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v2.5|Deepak|wav24k|r1|id_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|id_hi_01", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "timbre-v2.5|Urmila|wav24k|r1|id_hi_01", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।"}
+{"key": "anchor|hi-IN_0006", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "बड़े बड़े ठूंठों को वह आसानी से चीर फाड़ सकता है"}
+{"key": "anchor|hi-IN_0006", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "बड़े बड़े ठूंठों को वह आसानी से चीर फाड़ सकता है"}
+{"key": "anchor|hi-IN_0058", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "एक दिन उसने कहीं से चावल का चूर्ण और नारियल के कुछ टुकड़ों का इंतज़ाम कर लिया"}
+{"key": "anchor|hi-IN_0058", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "एक दिन उसने कहीं से चावल का चूर्ण और नारियल के कुछ टुकड़ों का इंतजाम कर लिया"}
+{"key": "anchor|hi-IN_0038", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "तारा और वर्षा ने उस ज़ोर की भयभीत चीख पहचान ली"}
+{"key": "anchor|hi-IN_0038", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "तारा और वर्षा ने उस ज़ोर की भयभीत चीख पहचान ली"}
+{"key": "anchor|hi-IN_0046", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "न्यायसभा क्या कहती है उसने मैमथ नील मगरमच्छ रैंगलर की ओर और जो मैं समझता हूँ सिंध नदी की डॉल्फिन की ओर देखकर पूछा"}
+{"key": "anchor|hi-IN_0046", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "न्याय सभा क्या कहती है उसने मैमत नील मगरमच्छ रैंगलर की ओर और जो मैं समझता हूं सिंध नदी की डॉल्फिन की ओर देखकर पूछा"}
+{"key": "anchor|hi-IN_0000", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "इसके पहले ही हर रोज़ की तरह टोकरियों में भरकर ले जाने वाले दो कांवरिये घर के अंदर से बाहर आए"}
+{"key": "anchor|hi-IN_0000", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "इसके पहले ही हर रोज की तरह टोकरियों में भरकर ले जाने वाले दो कांवरिये घर के अंदर से बाहर आए"}
+{"key": "anchor|hi-IN_0050", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "उसे ज्ञात था कि पुत्र गणपति के धड़ से जो सिर जोड़ा गया है वह गजेंद्र का ही है"}
+{"key": "anchor|hi-IN_0050", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "उसे ज्ञात था कि पुत्र गणपति के धड़ से जो सिर जोड़ा गया है वह गजेन्द्र का ही है"}
+{"key": "anchor|hi-IN_0059", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "किचकिच नामक पिशाचिनी वहाँ नई नई आई थी"}
+{"key": "anchor|hi-IN_0059", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "किचकिच नामक पिशाचनी वहाँ नई नई आई थी।"}
+{"key": "anchor|hi-IN_0088", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "अपनी बहन सरोजिनी नायडू के समान ही लब्धप्रतिष्ठ हरिन्द्रनाथ रंगमंच के कलाकार चित्रकार और वक्ता थे"}
+{"key": "anchor|hi-IN_0088", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "अपनी बहन सरोजनी नायडू के समान ही लब्ध प्रतिष्ठ हरेंद्रनाथ रंगमंच के कलाकार चित्रकार और वक्ता थे"}
+{"key": "anchor|hi-IN_0030", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "चाहूँ तो अयोध्या ही क्या सारा संसार जीत सकता हूँ लेकिन पिता की बात पर धर्म के लिए पट्टाभिषेक ही ठुकरा दिया"}
+{"key": "anchor|hi-IN_0030", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "चाहो तो अयोध्या ही क्या सारा संसार जीत सकता हूँ लेकिन पिता की बात पर धर्म के लिए पट्टाभिषेक ही ठुकरा दिया"}
+{"key": "anchor|hi-IN_0034", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "यदि मैं अयोध्या में होता तो क्या मैं भ्राता राम को वन में जाने देता मेरे लिए माता से भी अधिक प्रिय और पूज्य भ्राता राम हैं"}
+{"key": "anchor|hi-IN_0034", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "यदि मैं अयोध्या में होता तो क्या मैं भ्राता राम को वन में जाने देता मेरे लिए माता से भी अधिक प्रिय और पूज्य भ्राता राम है"}
+{"key": "anchor|ta-IN_0099", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "இறைவன் என் முன்னால் தோன்றி நீ சுந்தரமூர்த்தியைப் போல் இந்த உடம்போடு கைலாசத்துக்கு வருகிறாயா"}
+{"key": "anchor|ta-IN_0099", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "இறைவன் என் முன்னால் தோன்றி நீ சுந்தரமூர்த்தியைப் போல் இந்த உடம்போடு கைலாசத்துக்கு வருகிறாயா"}
+{"key": "anchor|ta-IN_0052", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "குதிரையையும் ஆளையும் கொண்டு போனால் சும்மா விட்டு விடுவார்களா விடாமல் என்ன செய்வது வேளக்காரப் படையார் வைத்ததே இந்த நகரில் சட்டம்"}
+{"key": "anchor|ta-IN_0052", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "குதிரையையும் ஆளையும் கொண்டு போனால் சும்மா விட்டுவிடுவார்களா விடாமல் என்ன செய்வது வேலைக்கார படையார் வைத்ததே இந்த நகரில் சட்டம்"}
+{"key": "anchor|ta-IN_0012", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "உன் சித்தப்பா தஞ்சையில் என்ன செய்கிறார் அரண்மனையில் உத்தியோகம் பார்க்கிறாரா"}
+{"key": "anchor|ta-IN_0012", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "உன் சித்தப்பா தஞ்சையில் என்ன செய்கிறார் அரண்மனையில் உத்தியோகம் பார்க்கிறாரா"}
+{"key": "anchor|ta-IN_0087", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "சிவபக்தியில் ஈடுபட்டு பெரும்பாலும் யோகத்திலும் தியானத்திலும் பூஜையிலும் காலம் கழிப்பதாகக் கேள்வி"}
+{"key": "anchor|ta-IN_0087", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "சிவபக்தியில் ஈடுபட்டு பெரும்பாலும் யோகத்திலும் தியானத்திலும் பூஜையிலும் காலம் கழிப்பதாகக் கேள்வி"}
+{"key": "anchor|ta-IN_0041", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "தேவி தேவி கோட்டைக்குள் என்னை விடமாட்டார்களே அரண்மனைக்குள்ளும் விடமாட்டார்களே என்ன செய்வது என்று பரபரப்புடன் சொன்னான்"}
+{"key": "anchor|ta-IN_0041", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "தேவி தேவி கோட்டைக்குள் என்னை விடமாட்டார்களே அரண்மனைக்குள்ளும் விடமாட்டார்களே என்ன செய்வது என்று பரபரப்புடன் சொன்னான்"}
+{"key": "anchor|ta-IN_0089", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "நமக்கென்ன அதைப்பற்றி பெரிய இடத்துப் பேச்சு பேசாமல் இருப்பதே நல்லது"}
+{"key": "anchor|ta-IN_0089", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "நமக்கென்ன அதைப் பற்றி பெரிய இடத்துப் பேச்சு பேசாமல் இருப்பதே நல்லது"}
+{"key": "anchor|ta-IN_0033", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "ஆம் மகாராணி இவர்கள் அப்படித்தான் செய்தார்கள் என் குதிரை மிரண்டுவிட்டது என்றான்"}
+{"key": "anchor|ta-IN_0033", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "ஆம் மகாராணி இவர்கள் அப்படித்தான் செய்தார்கள் என் குதிரை மிரண்டுவிட்டது என்றான்"}
+{"key": "anchor|ta-IN_0017", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "அவர்கள் பயத்துடன் திரும்பிப் பார்த்தார்கள்"}
+{"key": "anchor|ta-IN_0017", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "அவர்கள் பயத்துடன் திரும்பிப் பார்த்தார்கள்"}
+{"key": "anchor|ta-IN_0028", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "அந்தப் புன்முறுவலின் காந்தி நமது இளம் வீரனைத் திக்குமுக்காடித் திணறச் செய்தது"}
+{"key": "anchor|ta-IN_0028", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "அந்த பொன் முருவலின் காந்தி நமது இளம் வீரனை திக்குமுக்காடி திணறச் செய்தது"}
+{"key": "anchor|ta-IN_0010", "judge": "sarvam", "lang": "ta-IN", "parts": 1, "transcript": "என் சித்தப்பா தஞ்சையில் இருக்கிறார்"}
+{"key": "anchor|ta-IN_0010", "judge": "prisma", "lang": "ta-IN", "parts": 1, "transcript": "என் சித்தப்பா தஞ்சையில் இருக்கிறார்"}
+{"key": "anchor|en-IN_0636", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "was appointed judge, and a towel tied in knots was hung on each side in imitation of a wig."}
+{"key": "anchor|en-IN_0636", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": ""}
+{"key": "anchor|en-IN_0735", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Convicted murderers were kept continuously in the cells on bread and water."}
+{"key": "anchor|en-IN_0735", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "convicted murderers were kept continuously in the cells on bread and water"}
+{"key": "anchor|en-IN_0979", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "It was made incumbent upon the justices to provide distinct places of confinement for five classes of prisoners, viz."}
+{"key": "anchor|en-IN_0979", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "it was made incumbent upon the justices to provide distinct places of confinement for five classes of prisoners viz"}
+{"key": "anchor|en-IN_0391", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The yards were taken up with rackets and five courts, and here and there were bumble puppy grounds, a game in which the players rolled iron balls."}
+{"key": "anchor|en-IN_0391", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the yards were taken up with rackets and five quartz and here and there were bumble puppy grounds a game in which the players rolled iron balls"}
+{"key": "anchor|en-IN_0936", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "or to make him sleep in close contact with the victims of contagious and loathsome disease."}
+{"key": "anchor|en-IN_0936", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "or to make him sleep in close contact with the victims of contagious and loathsome disease"}
+{"key": "anchor|en-IN_0416", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Disturbances were frequent, owing to the riotous conduct of intoxicated women."}
+{"key": "anchor|en-IN_0416", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "disturbances were frequent owing to the riotous conduct of intoxicated women"}
+{"key": "anchor|en-IN_0181", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The books so ornamented are amongst the most delightful works of art that have ever been produced."}
+{"key": "anchor|en-IN_0181", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": ""}
+{"key": "anchor|en-IN_0061", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "Even in Italy, most of the theological and law books were printed in gothic letter."}
+{"key": "anchor|en-IN_0061", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "even in italy most of the theological and law books were printed in gothic letter"}
+{"key": "anchor|en-IN_0772", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "The culprit was chained down to the floor by running a chain through his irons, which prevented him from climbing to the window of his cell."}
+{"key": "anchor|en-IN_0772", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "the culprit was chained down to the floor by running a chain through his irons which prevented him from climbing to the window of his cell"}
+{"key": "anchor|en-IN_0584", "judge": "sarvam", "lang": "en-IN", "parts": 1, "transcript": "When each sleeper had the full lateral space allotted to him, it amounted to one foot and a half on the barrack bed."}
+{"key": "anchor|en-IN_0584", "judge": "prisma", "lang": "en-IN", "parts": 1, "transcript": "when each sleeper had the full lateral space allotted to him it amounted to one foot and a half on the barrack bed"}
+{"key": "timbre-v3.0|Shivani|wav24k|r2|lf_cs", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे"}
+{"key": "timbre-v3.0|Shivani|wav24k|r2|lf_cs", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे"}
+{"key": "timbre-v3.0|Shivani|wav24k|r3|lf_cs", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है। आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे। अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं। इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए। कोई भी डाउट हो तो हमारी टीम से बात कीजिए। हम आपकी पूरी हेल्प करेंगे।"}
+{"key": "timbre-v3.0|Shivani|wav24k|r3|lf_cs", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे"}
+{"key": "timbre-v3.0|Shivani|wav24k|r4|lf_cs", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे"}
+{"key": "timbre-v3.0|Shivani|wav24k|r4|lf_cs", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r2|lf_cs", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r2|lf_cs", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r3|lf_cs", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r3|lf_cs", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r4|lf_cs", "judge": "sarvam", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे।"}
+{"key": "timbre-v2.5|Poorvi|wav24k|r4|lf_cs", "judge": "prisma", "lang": "hi-IN", "parts": 1, "transcript": "सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे"}

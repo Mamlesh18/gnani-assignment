@@ -1,0 +1,473 @@
+job,model,group,fmt,voice,item,category,lang,judge,check,kind,passed,transcript
+timbre-v3.0|Shivani|wav24k|r1|num_hi_01,timbre-v3.0,main,wav24k,Shivani,num_hi_01,numbers,hi-IN,sarvam,amount,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_01,timbre-v3.0,main,wav24k,Shivani,num_hi_01,numbers,hi-IN,prisma,amount,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_01,timbre-v3.0,main,wav24k,Shivani,num_hi_01,numbers,hi-IN,sarvam,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_01,timbre-v3.0,main,wav24k,Shivani,num_hi_01,numbers,hi-IN,prisma,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_02,timbre-v3.0,main,wav24k,Shivani,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_02,timbre-v3.0,main,wav24k,Shivani,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं
+timbre-v3.0|Shivani|wav24k|r1|num_hi_03,timbre-v3.0,main,wav24k,Shivani,num_hi_03,numbers,hi-IN,sarvam,rupees,words,True,बिल की राशि चार हज़ार तीन सौ बारह रुपये और पचास पैसे है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_03,timbre-v3.0,main,wav24k,Shivani,num_hi_03,numbers,hi-IN,prisma,rupees,words,True,बिल की राशि चार हज़ार तीन सौ बारह रुपए और पचास पैसे है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_03,timbre-v3.0,main,wav24k,Shivani,num_hi_03,numbers,hi-IN,sarvam,paise,words,True,बिल की राशि चार हज़ार तीन सौ बारह रुपये और पचास पैसे है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_03,timbre-v3.0,main,wav24k,Shivani,num_hi_03,numbers,hi-IN,prisma,paise,words,True,बिल की राशि चार हज़ार तीन सौ बारह रुपए और पचास पैसे है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_04,timbre-v3.0,main,wav24k,Shivani,num_hi_04,numbers,hi-IN,sarvam,crore decimal,words,True,कंपनी का मुनाफा बारह दशमलव छः करोड़ रुपये रहा।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_04,timbre-v3.0,main,wav24k,Shivani,num_hi_04,numbers,hi-IN,prisma,crore decimal,words,True,कंपनी का मुनाफा बारह दशमलव छह करोड़ रुपये रहा
+timbre-v3.0|Shivani|wav24k|r1|num_hi_05,timbre-v3.0,main,wav24k,Shivani,num_hi_05,numbers,hi-IN,sarvam,percent,words,True,होम लोन पर ब्याज दर आठ दशमलव पाँच प्रतिशत है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_05,timbre-v3.0,main,wav24k,Shivani,num_hi_05,numbers,hi-IN,prisma,percent,words,True,होम लोन पर ब्याज दर आठ दशमलव पांच प्रतिशत है
+timbre-v3.0|Shivani|wav24k|r1|num_hi_06,timbre-v3.0,main,wav24k,Shivani,num_hi_06,numbers,hi-IN,sarvam,cardinal,words,True,इस महीने बयालीस ग्राहकों ने शिकायत की।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_06,timbre-v3.0,main,wav24k,Shivani,num_hi_06,numbers,hi-IN,prisma,cardinal,words,True,इस महीने बयालीस ग्राहकों ने शिकायत की।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_07,timbre-v3.0,main,wav24k,Shivani,num_hi_07,numbers,hi-IN,sarvam,price,words,True,पाँच सौ निन्यानवे रुपये का रिचार्ज अट्ठाईस दिनों के लिए है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_07,timbre-v3.0,main,wav24k,Shivani,num_hi_07,numbers,hi-IN,prisma,price,words,False,पाँच सौ निन्यानबे रुपए का रिचार्ज अट्ठाईस दिनों के लिए है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_07,timbre-v3.0,main,wav24k,Shivani,num_hi_07,numbers,hi-IN,sarvam,duration,words,True,पाँच सौ निन्यानवे रुपये का रिचार्ज अट्ठाईस दिनों के लिए है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_07,timbre-v3.0,main,wav24k,Shivani,num_hi_07,numbers,hi-IN,prisma,duration,words,True,पाँच सौ निन्यानबे रुपए का रिचार्ज अट्ठाईस दिनों के लिए है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_08,timbre-v3.0,main,wav24k,Shivani,num_hi_08,numbers,hi-IN,sarvam,ordinal,words,True,आपको पाँचवाँ किस्त अगले महीने भरनी है।
+timbre-v3.0|Shivani|wav24k|r1|num_hi_08,timbre-v3.0,main,wav24k,Shivani,num_hi_08,numbers,hi-IN,prisma,ordinal,words,False,आपको पाँचवा किस्त अगले महीने भरनी है।
+timbre-v3.0|Shivani|wav24k|r1|num_en_01,timbre-v3.0,main,wav24k,Shivani,num_en_01,numbers,en-IN,sarvam,amount,words,True,Your EMI of fifteen thousand rupees is due next week.
+timbre-v3.0|Shivani|wav24k|r1|num_en_01,timbre-v3.0,main,wav24k,Shivani,num_en_01,numbers,en-IN,prisma,amount,words,True,your emi of fifteen thousand rupees is due next week
+timbre-v3.0|Shivani|wav24k|r1|num_en_01,timbre-v3.0,main,wav24k,Shivani,num_en_01,numbers,en-IN,sarvam,EMI spelled,words,True,Your EMI of fifteen thousand rupees is due next week.
+timbre-v3.0|Shivani|wav24k|r1|num_en_01,timbre-v3.0,main,wav24k,Shivani,num_en_01,numbers,en-IN,prisma,EMI spelled,words,True,your emi of fifteen thousand rupees is due next week
+timbre-v3.0|Shivani|wav24k|r1|num_en_02,timbre-v3.0,main,wav24k,Shivani,num_en_02,numbers,en-IN,sarvam,lakh amount,words,True,A payment of two lakh fifty thousand rupees has been credited.
+timbre-v3.0|Shivani|wav24k|r1|num_en_02,timbre-v3.0,main,wav24k,Shivani,num_en_02,numbers,en-IN,prisma,lakh amount,words,True,a payment of two lakh fifty thousand rupees has been credited
+timbre-v3.0|Shivani|wav24k|r1|num_en_03,timbre-v3.0,main,wav24k,Shivani,num_en_03,numbers,en-IN,sarvam,rupees,words,True,The bill amount is four thousand three hundred twelve rupees and fifty paise.
+timbre-v3.0|Shivani|wav24k|r1|num_en_03,timbre-v3.0,main,wav24k,Shivani,num_en_03,numbers,en-IN,prisma,rupees,words,True,the bill amount is four thousand three hundred twelve rupees and fifty paise
+timbre-v3.0|Shivani|wav24k|r1|num_en_03,timbre-v3.0,main,wav24k,Shivani,num_en_03,numbers,en-IN,sarvam,paise,words,True,The bill amount is four thousand three hundred twelve rupees and fifty paise.
+timbre-v3.0|Shivani|wav24k|r1|num_en_03,timbre-v3.0,main,wav24k,Shivani,num_en_03,numbers,en-IN,prisma,paise,words,True,the bill amount is four thousand three hundred twelve rupees and fifty paise
+timbre-v3.0|Shivani|wav24k|r1|num_en_04,timbre-v3.0,main,wav24k,Shivani,num_en_04,numbers,en-IN,sarvam,crore decimal,words,True,Revenue grew to twelve point six crore rupees this year.
+timbre-v3.0|Shivani|wav24k|r1|num_en_04,timbre-v3.0,main,wav24k,Shivani,num_en_04,numbers,en-IN,prisma,crore decimal,words,True,revenue grew to twelve point six crore rupees this year
+timbre-v3.0|Shivani|wav24k|r1|num_en_05,timbre-v3.0,main,wav24k,Shivani,num_en_05,numbers,en-IN,sarvam,percent,words,True,The interest rate is eight point five percent
+timbre-v3.0|Shivani|wav24k|r1|num_en_05,timbre-v3.0,main,wav24k,Shivani,num_en_05,numbers,en-IN,prisma,percent,words,True,the interest rate is eight point five percent
+timbre-v3.0|Shivani|wav24k|r1|num_en_05,timbre-v3.0,main,wav24k,Shivani,num_en_05,numbers,en-IN,sarvam,per annum,words,False,The interest rate is eight point five percent
+timbre-v3.0|Shivani|wav24k|r1|num_en_05,timbre-v3.0,main,wav24k,Shivani,num_en_05,numbers,en-IN,prisma,per annum,words,False,the interest rate is eight point five percent
+timbre-v3.0|Shivani|wav24k|r1|num_en_06,timbre-v3.0,main,wav24k,Shivani,num_en_06,numbers,en-IN,sarvam,unit,words,True,The temperature today is thirty eight degrees Celsius.
+timbre-v3.0|Shivani|wav24k|r1|num_en_06,timbre-v3.0,main,wav24k,Shivani,num_en_06,numbers,en-IN,prisma,unit,words,True,the temperature today is thirty eight degrees celsius
+timbre-v3.0|Shivani|wav24k|r1|num_en_07,timbre-v3.0,main,wav24k,Shivani,num_en_07,numbers,en-IN,sarvam,unit,words,True,Your data pack includes one point five gigabytes per day.
+timbre-v3.0|Shivani|wav24k|r1|num_en_07,timbre-v3.0,main,wav24k,Shivani,num_en_07,numbers,en-IN,prisma,unit,words,True,your data pack includes one point five gigabytes per day
+timbre-v3.0|Shivani|wav24k|r1|num_en_08,timbre-v3.0,main,wav24k,Shivani,num_en_08,numbers,en-IN,sarvam,unit,words,True,The parcel weighs two point five kilograms.
+timbre-v3.0|Shivani|wav24k|r1|num_en_08,timbre-v3.0,main,wav24k,Shivani,num_en_08,numbers,en-IN,prisma,unit,words,True,the parcel weighs two point five kilograms
+timbre-v3.0|Shivani|wav24k|r1|dt_hi_01,timbre-v3.0,main,wav24k,Shivani,dt_hi_01,dates_times,hi-IN,sarvam,date,words,True,आपकी अगली किस्त पच्चीस जून दो हज़ार छब्बीस को देय है।
+timbre-v3.0|Shivani|wav24k|r1|dt_hi_01,timbre-v3.0,main,wav24k,Shivani,dt_hi_01,dates_times,hi-IN,prisma,date,words,True,आपकी अगली किस्त पच्चीस जून दो हज़ार छब्बीस को देय है
+timbre-v3.0|Shivani|wav24k|r1|dt_hi_02,timbre-v3.0,main,wav24k,Shivani,dt_hi_02,dates_times,hi-IN,sarvam,date,words,True,पॉलिसी पंद्रह जनवरी दो हज़ार सत्ताईस को समाप्त होगी।
+timbre-v3.0|Shivani|wav24k|r1|dt_hi_02,timbre-v3.0,main,wav24k,Shivani,dt_hi_02,dates_times,hi-IN,prisma,date,words,True,पॉलिसी पंद्रह जनवरी दो हजार सत्ताईस को समाप्त होगी।
+timbre-v3.0|Shivani|wav24k|r1|dt_hi_03,timbre-v3.0,main,wav24k,Shivani,dt_hi_03,dates_times,hi-IN,sarvam,time,words,True,हमारा एजेंट आपको शाम पाँच बजकर तीस मिनट कॉल करेगा।
+timbre-v3.0|Shivani|wav24k|r1|dt_hi_03,timbre-v3.0,main,wav24k,Shivani,dt_hi_03,dates_times,hi-IN,prisma,time,words,True,हमारा एजेंट आपको शाम पांच बजकर तीस मिनट कॉल करेगा।
+timbre-v3.0|Shivani|wav24k|r1|dt_hi_04,timbre-v3.0,main,wav24k,Shivani,dt_hi_04,dates_times,hi-IN,sarvam,time,words,True,शाखा सुबह दस बजे खुलती है
+timbre-v3.0|Shivani|wav24k|r1|dt_hi_04,timbre-v3.0,main,wav24k,Shivani,dt_hi_04,dates_times,hi-IN,prisma,time,words,True,शाखा सुबह दस बजे खुलती है।
+timbre-v3.0|Shivani|wav24k|r1|dt_en_01,timbre-v3.0,main,wav24k,Shivani,dt_en_01,dates_times,en-IN,sarvam,date,words,True,Your appointment is on twenty-fifth June twenty twenty-six.
+timbre-v3.0|Shivani|wav24k|r1|dt_en_01,timbre-v3.0,main,wav24k,Shivani,dt_en_01,dates_times,en-IN,prisma,date,words,True,your appointment is on twenty fifth june twenty twenty six
+timbre-v3.0|Shivani|wav24k|r1|dt_en_02,timbre-v3.0,main,wav24k,Shivani,dt_en_02,dates_times,en-IN,sarvam,time,words,True,The meeting is at five thirty p m.
+timbre-v3.0|Shivani|wav24k|r1|dt_en_02,timbre-v3.0,main,wav24k,Shivani,dt_en_02,dates_times,en-IN,prisma,time,words,True,the meeting is at five thirty pm
+timbre-v3.0|Shivani|wav24k|r1|dt_en_03,timbre-v3.0,main,wav24k,Shivani,dt_en_03,dates_times,en-IN,sarvam,24h time,words,True,The office closes at eight p.m.
+timbre-v3.0|Shivani|wav24k|r1|dt_en_03,timbre-v3.0,main,wav24k,Shivani,dt_en_03,dates_times,en-IN,prisma,24h time,words,True,the office closes at eight pm
+timbre-v3.0|Shivani|wav24k|r1|dt_en_04,timbre-v3.0,main,wav24k,Shivani,dt_en_04,dates_times,en-IN,sarvam,financial year,words,True,This report covers financial year twenty twenty four twenty twenty five.
+timbre-v3.0|Shivani|wav24k|r1|dt_en_04,timbre-v3.0,main,wav24k,Shivani,dt_en_04,dates_times,en-IN,prisma,financial year,words,True,this report covers financial year twenty twenty four twenty twenty five
+timbre-v3.0|Shivani|wav24k|r1|dt_en_05,timbre-v3.0,main,wav24k,Shivani,dt_en_05,dates_times,en-IN,sarvam,quarter,words,True,Results for quarter one of financial year twenty twenty four twenty twenty five are out.
+timbre-v3.0|Shivani|wav24k|r1|dt_en_05,timbre-v3.0,main,wav24k,Shivani,dt_en_05,dates_times,en-IN,prisma,quarter,words,True,results for quarter one of financial year twenty twenty four twenty twenty five are out
+timbre-v3.0|Shivani|wav24k|r1|dt_en_06,timbre-v3.0,main,wav24k,Shivani,dt_en_06,dates_times,en-IN,sarvam,fraction,words,True,Only one by two of the fee is refundable.
+timbre-v3.0|Shivani|wav24k|r1|dt_en_06,timbre-v3.0,main,wav24k,Shivani,dt_en_06,dates_times,en-IN,prisma,fraction,words,True,only one by two of the fee is refundable
+timbre-v3.0|Shivani|wav24k|r1|id_hi_01,timbre-v3.0,main,wav24k,Shivani,id_hi_01,identifiers,hi-IN,sarvam,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v3.0|Shivani|wav24k|r1|id_hi_01,timbre-v3.0,main,wav24k,Shivani,id_hi_01,identifiers,hi-IN,prisma,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v3.0|Shivani|wav24k|r1|id_hi_02,timbre-v3.0,main,wav24k,Shivani,id_hi_02,identifiers,hi-IN,sarvam,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Shivani|wav24k|r1|id_hi_02,timbre-v3.0,main,wav24k,Shivani,id_hi_02,identifiers,hi-IN,prisma,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Shivani|wav24k|r1|id_hi_02,timbre-v3.0,main,wav24k,Shivani,id_hi_02,identifiers,hi-IN,sarvam,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Shivani|wav24k|r1|id_hi_02,timbre-v3.0,main,wav24k,Shivani,id_hi_02,identifiers,hi-IN,prisma,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Shivani|wav24k|r1|id_hi_03,timbre-v3.0,main,wav24k,Shivani,id_hi_03,identifiers,hi-IN,sarvam,OTP repeated digits,digits,True,आपका ओ टी पी चार चार आठ आठ दो दो है।
+timbre-v3.0|Shivani|wav24k|r1|id_hi_03,timbre-v3.0,main,wav24k,Shivani,id_hi_03,identifiers,hi-IN,prisma,OTP repeated digits,digits,True,आपका ओ टी पी चार चार आठ आठ दो दो है।
+timbre-v3.0|Shivani|wav24k|r1|id_hi_04,timbre-v3.0,main,wav24k,Shivani,id_hi_04,identifiers,hi-IN,sarvam,account,digits,True,आपका खाता नंबर पाँच शून्य एक शून्य शून्य दो तीन चार पाँच छह सात है।
+timbre-v3.0|Shivani|wav24k|r1|id_hi_04,timbre-v3.0,main,wav24k,Shivani,id_hi_04,identifiers,hi-IN,prisma,account,digits,True,आपका खाता नंबर पाँच शून्य एक शून्य शून्य दो तीन चार पाँच छह सात है।
+timbre-v3.0|Shivani|wav24k|r1|id_en_01,timbre-v3.0,main,wav24k,Shivani,id_en_01,identifiers,en-IN,sarvam,phone,digits,True,My mobile number is nine eight seven six five four three two one zero
+timbre-v3.0|Shivani|wav24k|r1|id_en_01,timbre-v3.0,main,wav24k,Shivani,id_en_01,identifiers,en-IN,prisma,phone,digits,True,my mobile number is nine eight seven six five four three two one zero
+timbre-v3.0|Shivani|wav24k|r1|id_en_02,timbre-v3.0,main,wav24k,Shivani,id_en_02,identifiers,en-IN,sarvam,OTP,digits,True,Your O T P is four eight two nine one three.
+timbre-v3.0|Shivani|wav24k|r1|id_en_02,timbre-v3.0,main,wav24k,Shivani,id_en_02,identifiers,en-IN,prisma,OTP,digits,True,your otp is four eight two nine one three
+timbre-v3.0|Shivani|wav24k|r1|id_en_03,timbre-v3.0,main,wav24k,Shivani,id_en_03,identifiers,en-IN,sarvam,OTP repeated digits,digits,True,Your O T P is four four eight eight two two.
+timbre-v3.0|Shivani|wav24k|r1|id_en_03,timbre-v3.0,main,wav24k,Shivani,id_en_03,identifiers,en-IN,prisma,OTP repeated digits,digits,True,your otp is double four double eight double two
+timbre-v3.0|Shivani|wav24k|r1|id_en_04,timbre-v3.0,main,wav24k,Shivani,id_en_04,identifiers,en-IN,sarvam,toll-free,digits,True,Please call our toll free number one eight zero zero four four zero one two three four
+timbre-v3.0|Shivani|wav24k|r1|id_en_04,timbre-v3.0,main,wav24k,Shivani,id_en_04,identifiers,en-IN,prisma,toll-free,digits,True,please call our toll free number one eight zero zero four four zero one two three four
+timbre-v3.0|Shivani|wav24k|r1|id_en_05,timbre-v3.0,main,wav24k,Shivani,id_en_05,identifiers,en-IN,sarvam,PAN,alnum,True,Your PAN is A B C D E one two three four F
+timbre-v3.0|Shivani|wav24k|r1|id_en_05,timbre-v3.0,main,wav24k,Shivani,id_en_05,identifiers,en-IN,prisma,PAN,alnum,True,your pan is a b c d e one two three four f
+timbre-v3.0|Shivani|wav24k|r1|id_en_06,timbre-v3.0,main,wav24k,Shivani,id_en_06,identifiers,en-IN,sarvam,IFSC,alnum,True,The I F S C code is S B I N zero zero zero one two three four
+timbre-v3.0|Shivani|wav24k|r1|id_en_06,timbre-v3.0,main,wav24k,Shivani,id_en_06,identifiers,en-IN,prisma,IFSC,alnum,True,the ifsc code is sbin zero zero zero one two three four
+timbre-v3.0|Shivani|wav24k|r1|id_en_07,timbre-v3.0,main,wav24k,Shivani,id_en_07,identifiers,en-IN,sarvam,Aadhaar,digits,True,Your Aadhaar number is one two three four five six seven eight nine zero one two
+timbre-v3.0|Shivani|wav24k|r1|id_en_07,timbre-v3.0,main,wav24k,Shivani,id_en_07,identifiers,en-IN,prisma,Aadhaar,digits,True,your aadhaar number is one two three four five six seven eight nine zero one two
+timbre-v3.0|Shivani|wav24k|r1|id_en_08,timbre-v3.0,main,wav24k,Shivani,id_en_08,identifiers,en-IN,sarvam,14-digit reference,digits,True,Your reference number is two zero two six zero six one five zero zero four five one two
+timbre-v3.0|Shivani|wav24k|r1|id_en_08,timbre-v3.0,main,wav24k,Shivani,id_en_08,identifiers,en-IN,prisma,14-digit reference,digits,True,your reference number is two zero two six zero six one five zero zero four five one two
+timbre-v3.0|Shivani|wav24k|r1|id_en_09,timbre-v3.0,main,wav24k,Shivani,id_en_09,identifiers,en-IN,sarvam,masked card,digits,True,Your card ending four eight two one has been blocked.
+timbre-v3.0|Shivani|wav24k|r1|id_en_09,timbre-v3.0,main,wav24k,Shivani,id_en_09,identifiers,en-IN,prisma,masked card,digits,True,your card ending four eight two one has been blocked
+timbre-v3.0|Shivani|wav24k|r1|id_en_09,timbre-v3.0,main,wav24k,Shivani,id_en_09,identifiers,en-IN,sarvam,mask not read,absent,True,Your card ending four eight two one has been blocked.
+timbre-v3.0|Shivani|wav24k|r1|id_en_09,timbre-v3.0,main,wav24k,Shivani,id_en_09,identifiers,en-IN,prisma,mask not read,absent,True,your card ending four eight two one has been blocked
+timbre-v3.0|Shivani|wav24k|r1|id_en_10,timbre-v3.0,main,wav24k,Shivani,id_en_10,identifiers,en-IN,sarvam,plate,alnum,True,Vehicle number D L one C A F five zero three one has a pending chalan
+timbre-v3.0|Shivani|wav24k|r1|id_en_10,timbre-v3.0,main,wav24k,Shivani,id_en_10,identifiers,en-IN,prisma,plate,alnum,True,vehicle number d l one c a f five zero three one has a pending challenge
+timbre-v3.0|Shivani|wav24k|r1|ab_hi_01,timbre-v3.0,main,wav24k,Shivani,ab_hi_01,abbreviations,hi-IN,sarvam,KYC,words,True,कृपया अपना के वाई सी अपडेट करें और यू पी आई से भुगतान करें।
+timbre-v3.0|Shivani|wav24k|r1|ab_hi_01,timbre-v3.0,main,wav24k,Shivani,ab_hi_01,abbreviations,hi-IN,prisma,KYC,words,True,कृपया अपना केवाईसी अपडेट करें और यू पी आई से भुगतान करें।
+timbre-v3.0|Shivani|wav24k|r1|ab_hi_01,timbre-v3.0,main,wav24k,Shivani,ab_hi_01,abbreviations,hi-IN,sarvam,UPI,words,True,कृपया अपना के वाई सी अपडेट करें और यू पी आई से भुगतान करें।
+timbre-v3.0|Shivani|wav24k|r1|ab_hi_01,timbre-v3.0,main,wav24k,Shivani,ab_hi_01,abbreviations,hi-IN,prisma,UPI,words,True,कृपया अपना केवाईसी अपडेट करें और यू पी आई से भुगतान करें।
+timbre-v3.0|Shivani|wav24k|r1|ab_hi_02,timbre-v3.0,main,wav24k,Shivani,ab_hi_02,abbreviations,hi-IN,sarvam,Dr.,words,True,डॉक्टर शर्मा कल क्लिनिक में मिलेंगे।
+timbre-v3.0|Shivani|wav24k|r1|ab_hi_02,timbre-v3.0,main,wav24k,Shivani,ab_hi_02,abbreviations,hi-IN,prisma,Dr.,words,True,डॉक्टर शर्मा कल क्लिनिक में मिलेंगे।
+timbre-v3.0|Shivani|wav24k|r1|ab_hi_03,timbre-v3.0,main,wav24k,Shivani,ab_hi_03,abbreviations,hi-IN,sarvam,Mr.,words,True,श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।
+timbre-v3.0|Shivani|wav24k|r1|ab_hi_03,timbre-v3.0,main,wav24k,Shivani,ab_hi_03,abbreviations,hi-IN,prisma,Mr.,words,True,श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।
+timbre-v3.0|Shivani|wav24k|r1|ab_hi_03,timbre-v3.0,main,wav24k,Shivani,ab_hi_03,abbreviations,hi-IN,sarvam,GST,words,True,श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।
+timbre-v3.0|Shivani|wav24k|r1|ab_hi_03,timbre-v3.0,main,wav24k,Shivani,ab_hi_03,abbreviations,hi-IN,prisma,GST,words,True,श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।
+timbre-v3.0|Shivani|wav24k|r1|ab_en_01,timbre-v3.0,main,wav24k,Shivani,ab_en_01,abbreviations,en-IN,sarvam,Dr.,words,True,Doctor Rao will see you at the clinic on M G Road.
+timbre-v3.0|Shivani|wav24k|r1|ab_en_01,timbre-v3.0,main,wav24k,Shivani,ab_en_01,abbreviations,en-IN,prisma,Dr.,words,True,doctor rao will see you at the clinic on mg road
+timbre-v3.0|Shivani|wav24k|r1|ab_en_01,timbre-v3.0,main,wav24k,Shivani,ab_en_01,abbreviations,en-IN,sarvam,Rd,words,True,Doctor Rao will see you at the clinic on M G Road.
+timbre-v3.0|Shivani|wav24k|r1|ab_en_01,timbre-v3.0,main,wav24k,Shivani,ab_en_01,abbreviations,en-IN,prisma,Rd,words,True,doctor rao will see you at the clinic on mg road
+timbre-v3.0|Shivani|wav24k|r1|ab_en_02,timbre-v3.0,main,wav24k,Shivani,ab_en_02,abbreviations,en-IN,sarvam,KYC,words,True,Please update your KYC to continue using UPI.
+timbre-v3.0|Shivani|wav24k|r1|ab_en_02,timbre-v3.0,main,wav24k,Shivani,ab_en_02,abbreviations,en-IN,prisma,KYC,words,True,please update your kyc to continue using upi
+timbre-v3.0|Shivani|wav24k|r1|ab_en_02,timbre-v3.0,main,wav24k,Shivani,ab_en_02,abbreviations,en-IN,sarvam,UPI,words,True,Please update your KYC to continue using UPI.
+timbre-v3.0|Shivani|wav24k|r1|ab_en_02,timbre-v3.0,main,wav24k,Shivani,ab_en_02,abbreviations,en-IN,prisma,UPI,words,True,please update your kyc to continue using upi
+timbre-v3.0|Shivani|wav24k|r1|ab_en_03,timbre-v3.0,main,wav24k,Shivani,ab_en_03,abbreviations,en-IN,sarvam,Mrs.,words,True,Mrs. Iyer works at Infosys Limited.
+timbre-v3.0|Shivani|wav24k|r1|ab_en_03,timbre-v3.0,main,wav24k,Shivani,ab_en_03,abbreviations,en-IN,prisma,Mrs.,words,True,mrs iyer works at infosys limited
+timbre-v3.0|Shivani|wav24k|r1|ab_en_03,timbre-v3.0,main,wav24k,Shivani,ab_en_03,abbreviations,en-IN,sarvam,Ltd,words,True,Mrs. Iyer works at Infosys Limited.
+timbre-v3.0|Shivani|wav24k|r1|ab_en_03,timbre-v3.0,main,wav24k,Shivani,ab_en_03,abbreviations,en-IN,prisma,Ltd,words,True,mrs iyer works at infosys limited
+timbre-v3.0|Shivani|wav24k|r1|ab_en_04,timbre-v3.0,main,wav24k,Shivani,ab_en_04,abbreviations,en-IN,sarvam,St. (Saint),words,True,"Saint Xavier's College is on Main Street, Mumbai."
+timbre-v3.0|Shivani|wav24k|r1|ab_en_04,timbre-v3.0,main,wav24k,Shivani,ab_en_04,abbreviations,en-IN,prisma,St. (Saint),words,True,saint xavier's college is on main street mumbai
+timbre-v3.0|Shivani|wav24k|r1|ab_en_04,timbre-v3.0,main,wav24k,Shivani,ab_en_04,abbreviations,en-IN,sarvam,St (Street),words,True,"Saint Xavier's College is on Main Street, Mumbai."
+timbre-v3.0|Shivani|wav24k|r1|ab_en_04,timbre-v3.0,main,wav24k,Shivani,ab_en_04,abbreviations,en-IN,prisma,St (Street),words,True,saint xavier's college is on main street mumbai
+timbre-v3.0|Shivani|wav24k|r1|web_en_01,timbre-v3.0,main,wav24k,Shivani,web_en_01,web_symbols,en-IN,sarvam,email,words,True,Write to us at support at hdfcbank dot com
+timbre-v3.0|Shivani|wav24k|r1|web_en_01,timbre-v3.0,main,wav24k,Shivani,web_en_01,web_symbols,en-IN,prisma,email,words,True,write to us at support at hdfc bank dot com
+timbre-v3.0|Shivani|wav24k|r1|web_en_02,timbre-v3.0,main,wav24k,Shivani,web_en_02,web_symbols,en-IN,sarvam,url,words,False,Visit www.divu dot w dot m for more details.
+timbre-v3.0|Shivani|wav24k|r1|web_en_02,timbre-v3.0,main,wav24k,Shivani,web_en_02,web_symbols,en-IN,prisma,url,words,False,visit www dot w dot in for more details
+timbre-v3.0|Shivani|wav24k|r1|web_en_03,timbre-v3.0,main,wav24k,Shivani,web_en_03,web_symbols,en-IN,sarvam,UPI handle digits,digits,True,Pay to nine eight seven six five four three two one zero at Y B L using any U P I app
+timbre-v3.0|Shivani|wav24k|r1|web_en_03,timbre-v3.0,main,wav24k,Shivani,web_en_03,web_symbols,en-IN,prisma,UPI handle digits,digits,True,pay to nine eight seven six five four three two one zero at ybl using any upi app
+timbre-v3.0|Shivani|wav24k|r1|web_en_03,timbre-v3.0,main,wav24k,Shivani,web_en_03,web_symbols,en-IN,sarvam,UPI handle suffix,words,True,Pay to nine eight seven six five four three two one zero at Y B L using any U P I app
+timbre-v3.0|Shivani|wav24k|r1|web_en_03,timbre-v3.0,main,wav24k,Shivani,web_en_03,web_symbols,en-IN,prisma,UPI handle suffix,words,True,pay to nine eight seven six five four three two one zero at ybl using any upi app
+timbre-v3.0|Shivani|wav24k|r1|web_en_04,timbre-v3.0,main,wav24k,Shivani,web_en_04,web_symbols,en-IN,sarvam,24x7,words,True,Our helpline is available twenty four seven.
+timbre-v3.0|Shivani|wav24k|r1|web_en_04,timbre-v3.0,main,wav24k,Shivani,web_en_04,web_symbols,en-IN,prisma,24x7,words,True,our helpline is available twenty four seven
+timbre-v3.0|Shivani|wav24k|r1|web_hi_01,timbre-v3.0,main,wav24k,Shivani,web_hi_01,web_symbols,hi-IN,sarvam,24x7,words,True,हमारी हेल्पलाइन चौबीस सात उपलब्ध है।
+timbre-v3.0|Shivani|wav24k|r1|web_hi_01,timbre-v3.0,main,wav24k,Shivani,web_hi_01,web_symbols,hi-IN,prisma,24x7,words,True,हमारी हेल्पलाइन चौबीस सात उपलब्ध है।
+timbre-v3.0|Shivani|wav24k|r1|cs_01,timbre-v3.0,main,wav24k,Shivani,cs_01,code_switch,hi-en,sarvam,payment,words,True,सर आपका पेमेंट पेंडिंग है। प्लीज़ आज ही पे कर दीजिए।
+timbre-v3.0|Shivani|wav24k|r1|cs_01,timbre-v3.0,main,wav24k,Shivani,cs_01,code_switch,hi-en,prisma,payment,words,True,"सर आपका पेमेंट पेंडिंग है, प्लीज आज ही पे कर दीजिए।"
+timbre-v3.0|Shivani|wav24k|r1|cs_01,timbre-v3.0,main,wav24k,Shivani,cs_01,code_switch,hi-en,sarvam,pending,words,True,सर आपका पेमेंट पेंडिंग है। प्लीज़ आज ही पे कर दीजिए।
+timbre-v3.0|Shivani|wav24k|r1|cs_01,timbre-v3.0,main,wav24k,Shivani,cs_01,code_switch,hi-en,prisma,pending,words,True,"सर आपका पेमेंट पेंडिंग है, प्लीज आज ही पे कर दीजिए।"
+timbre-v3.0|Shivani|wav24k|r1|cs_02,timbre-v3.0,main,wav24k,Shivani,cs_02,code_switch,hi-en,sarvam,approval,words,True,आपका लोन अप्रूवल प्रोसेस में है दो वर्किंग डेज़ लगेंगे
+timbre-v3.0|Shivani|wav24k|r1|cs_02,timbre-v3.0,main,wav24k,Shivani,cs_02,code_switch,hi-en,prisma,approval,words,True,"आपका लोन अप्रूवल प्रोसेस में है, दो वर्किंग डेज़ लगेंगे।"
+timbre-v3.0|Shivani|wav24k|r1|cs_02,timbre-v3.0,main,wav24k,Shivani,cs_02,code_switch,hi-en,sarvam,2 working days,words,True,आपका लोन अप्रूवल प्रोसेस में है दो वर्किंग डेज़ लगेंगे
+timbre-v3.0|Shivani|wav24k|r1|cs_02,timbre-v3.0,main,wav24k,Shivani,cs_02,code_switch,hi-en,prisma,2 working days,words,True,"आपका लोन अप्रूवल प्रोसेस में है, दो वर्किंग डेज़ लगेंगे।"
+timbre-v3.0|Shivani|wav24k|r1|cs_03,timbre-v3.0,main,wav24k,Shivani,cs_03,code_switch,hi-en,sarvam,unblock,words,True,मेरा अकाउंट ब्लॉक हो गया है। प्लीज़ इसे अनब्लॉक कर दीजिए।
+timbre-v3.0|Shivani|wav24k|r1|cs_03,timbre-v3.0,main,wav24k,Shivani,cs_03,code_switch,hi-en,prisma,unblock,words,True,"मेरा अकाउंट ब्लॉक हो गया है, प्लीज इसे अनब्लॉक कर दीजिए।"
+timbre-v3.0|Shivani|wav24k|r1|cs_04,timbre-v3.0,main,wav24k,Shivani,cs_04,code_switch,hi-en,sarvam,Roman Hindi read as Hindi,words,True,आपका पेमेंट अभी तक पेंडिंग है कृपया आज ही पे कर दीजिए।
+timbre-v3.0|Shivani|wav24k|r1|cs_04,timbre-v3.0,main,wav24k,Shivani,cs_04,code_switch,hi-en,prisma,Roman Hindi read as Hindi,words,True,"आपका पेमेंट अभी तक पेंडिंग है, कृपया आज ही पे कर दीजिए।"
+timbre-v3.0|Shivani|wav24k|r1|cs_04,timbre-v3.0,main,wav24k,Shivani,cs_04,code_switch,hi-en,sarvam,kripya,words,True,आपका पेमेंट अभी तक पेंडिंग है कृपया आज ही पे कर दीजिए।
+timbre-v3.0|Shivani|wav24k|r1|cs_04,timbre-v3.0,main,wav24k,Shivani,cs_04,code_switch,hi-en,prisma,kripya,words,True,"आपका पेमेंट अभी तक पेंडिंग है, कृपया आज ही पे कर दीजिए।"
+timbre-v3.0|Shivani|wav24k|r1|cs_05,timbre-v3.0,main,wav24k,Shivani,cs_05,code_switch,hi-en,sarvam,do din,words,True,सर आपका कार्ड डिस्पैच हो गया है। दो दिन में डिलीवर हो जाएगा।
+timbre-v3.0|Shivani|wav24k|r1|cs_05,timbre-v3.0,main,wav24k,Shivani,cs_05,code_switch,hi-en,prisma,do din,words,True,"सर आपका कार्ड डिस्पैच हो गया है, दो दिन में डिलीवर हो जाएगा।"
+timbre-v3.0|Shivani|wav24k|r1|cs_05,timbre-v3.0,main,wav24k,Shivani,cs_05,code_switch,hi-en,sarvam,ho jayega,words,True,सर आपका कार्ड डिस्पैच हो गया है। दो दिन में डिलीवर हो जाएगा।
+timbre-v3.0|Shivani|wav24k|r1|cs_05,timbre-v3.0,main,wav24k,Shivani,cs_05,code_switch,hi-en,prisma,ho jayega,words,True,"सर आपका कार्ड डिस्पैच हो गया है, दो दिन में डिलीवर हो जाएगा।"
+timbre-v3.0|Shivani|wav24k|r1|cs_06,timbre-v3.0,main,wav24k,Shivani,cs_06,code_switch,hi-en,sarvam,madad,words,True,मैं आपकी मदद कर सकती हूँ बस अपना रजिस्टर्ड मोबाइल नंबर बताइए।
+timbre-v3.0|Shivani|wav24k|r1|cs_06,timbre-v3.0,main,wav24k,Shivani,cs_06,code_switch,hi-en,prisma,madad,words,True,"मैं आपकी मदद कर सकती हूँ, बस अपना रजिस्टर्ड मोबाइल नंबर बताइये।"
+timbre-v3.0|Shivani|wav24k|r1|cs_06,timbre-v3.0,main,wav24k,Shivani,cs_06,code_switch,hi-en,sarvam,bataiye,words,True,मैं आपकी मदद कर सकती हूँ बस अपना रजिस्टर्ड मोबाइल नंबर बताइए।
+timbre-v3.0|Shivani|wav24k|r1|cs_06,timbre-v3.0,main,wav24k,Shivani,cs_06,code_switch,hi-en,prisma,bataiye,words,True,"मैं आपकी मदद कर सकती हूँ, बस अपना रजिस्टर्ड मोबाइल नंबर बताइये।"
+timbre-v3.0|Shivani|wav24k|r1|nm_en_01,timbre-v3.0,main,wav24k,Shivani,nm_en_01,names,en-IN,sarvam,Thiruvananthapuram,fuzzy,True,Thiruvananthapuram and Visakhapatnam are major cities.
+timbre-v3.0|Shivani|wav24k|r1|nm_en_01,timbre-v3.0,main,wav24k,Shivani,nm_en_01,names,en-IN,prisma,Thiruvananthapuram,fuzzy,True,thiruvananthapuram and visakhapatnam are major cities
+timbre-v3.0|Shivani|wav24k|r1|nm_en_01,timbre-v3.0,main,wav24k,Shivani,nm_en_01,names,en-IN,sarvam,Visakhapatnam,fuzzy,True,Thiruvananthapuram and Visakhapatnam are major cities.
+timbre-v3.0|Shivani|wav24k|r1|nm_en_01,timbre-v3.0,main,wav24k,Shivani,nm_en_01,names,en-IN,prisma,Visakhapatnam,fuzzy,True,thiruvananthapuram and visakhapatnam are major cities
+timbre-v3.0|Shivani|wav24k|r1|nm_en_02,timbre-v3.0,main,wav24k,Shivani,nm_en_02,names,en-IN,sarvam,Venkataraghavan,fuzzy,True,Please connect me to Mr. Venkat Raghavan from the Coimbatore branch.
+timbre-v3.0|Shivani|wav24k|r1|nm_en_02,timbre-v3.0,main,wav24k,Shivani,nm_en_02,names,en-IN,prisma,Venkataraghavan,fuzzy,True,please connect me to mister venkataraghavan from the coimbatore branch
+timbre-v3.0|Shivani|wav24k|r1|nm_en_02,timbre-v3.0,main,wav24k,Shivani,nm_en_02,names,en-IN,sarvam,Coimbatore,fuzzy,True,Please connect me to Mr. Venkat Raghavan from the Coimbatore branch.
+timbre-v3.0|Shivani|wav24k|r1|nm_en_02,timbre-v3.0,main,wav24k,Shivani,nm_en_02,names,en-IN,prisma,Coimbatore,fuzzy,True,please connect me to mister venkataraghavan from the coimbatore branch
+timbre-v3.0|Shivani|wav24k|r1|nm_en_03,timbre-v3.0,main,wav24k,Shivani,nm_en_03,names,en-IN,sarvam,HDFC,words,True,Your H D F C Bank and I C I C I Bank accounts are linked.
+timbre-v3.0|Shivani|wav24k|r1|nm_en_03,timbre-v3.0,main,wav24k,Shivani,nm_en_03,names,en-IN,prisma,HDFC,words,True,your hdfc bank and icici bank accounts are linked
+timbre-v3.0|Shivani|wav24k|r1|nm_en_03,timbre-v3.0,main,wav24k,Shivani,nm_en_03,names,en-IN,sarvam,ICICI,words,True,Your H D F C Bank and I C I C I Bank accounts are linked.
+timbre-v3.0|Shivani|wav24k|r1|nm_en_03,timbre-v3.0,main,wav24k,Shivani,nm_en_03,names,en-IN,prisma,ICICI,words,True,your hdfc bank and icici bank accounts are linked
+timbre-v3.0|Shivani|wav24k|r1|nm_hi_01,timbre-v3.0,main,wav24k,Shivani,nm_hi_01,names,hi-IN,sarvam,Venkateshwar,fuzzy,True,"श्री वेंकटेश्वर राव जी, आपका स्वागत है।"
+timbre-v3.0|Shivani|wav24k|r1|nm_hi_01,timbre-v3.0,main,wav24k,Shivani,nm_hi_01,names,hi-IN,prisma,Venkateshwar,fuzzy,True,"श्री वेंकटेश्वर राव जी, आपका स्वागत है।"
+timbre-v3.0|Shivani|wav24k|r1|nm_hi_02,timbre-v3.0,main,wav24k,Shivani,nm_hi_02,names,hi-IN,sarvam,Thiruvananthapuram,fuzzy,True,हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में हैं।
+timbre-v3.0|Shivani|wav24k|r1|nm_hi_02,timbre-v3.0,main,wav24k,Shivani,nm_hi_02,names,hi-IN,prisma,Thiruvananthapuram,fuzzy,True,हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में हैं
+timbre-v3.0|Shivani|wav24k|r1|nm_hi_02,timbre-v3.0,main,wav24k,Shivani,nm_hi_02,names,hi-IN,sarvam,Visakhapatnam,fuzzy,True,हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में हैं।
+timbre-v3.0|Shivani|wav24k|r1|nm_hi_02,timbre-v3.0,main,wav24k,Shivani,nm_hi_02,names,hi-IN,prisma,Visakhapatnam,fuzzy,True,हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में हैं
+timbre-v3.0|Shivani|wav24k|r1|nm_hi_03,timbre-v3.0,main,wav24k,Shivani,nm_hi_03,names,hi-IN,sarvam,HDFC,words,True,आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।
+timbre-v3.0|Shivani|wav24k|r1|nm_hi_03,timbre-v3.0,main,wav24k,Shivani,nm_hi_03,names,hi-IN,prisma,HDFC,words,True,आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।
+timbre-v3.0|Shivani|wav24k|r1|nm_hi_03,timbre-v3.0,main,wav24k,Shivani,nm_hi_03,names,hi-IN,sarvam,ICICI,words,True,आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।
+timbre-v3.0|Shivani|wav24k|r1|nm_hi_03,timbre-v3.0,main,wav24k,Shivani,nm_hi_03,names,hi-IN,prisma,ICICI,words,True,आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।
+timbre-v3.0|Shivani|wav24k|r1|lf_hi,timbre-v3.0,main,wav24k,Shivani,lf_hi,long_form,hi-IN,sarvam,last sentence heard,words,True,नमस्ते आपकी बीमा पॉलिसी के नवीनीकरण के बारे में जानकारी देने के लिए हम आपसे संपर्क कर रहे हैं आपकी पॉलिसी अगले महीने समाप्त हो रही है इसलिए समय पर प्रीमियम जमा करना ज़रूरी है ताकि आपका बीमा कवर बिना रुकावट जारी रहे आप हमारी वेबसाइट मोबाइल ऐप या नज़दीकी शाखा में जाकर भुगतान कर सकते हैं अगर आपने हाल ही में अपना पता या मोबाइल नंबर बदला है तो कृपया उसे भी अपडेट करवा लें ताकि ज़रूरी सूचनाएँ आप तक समय पर पहुँच सकें अगर आपको प्रीमियम की राशि या भुगतान के तरीके के बारे में कोई संदेह है तो हमारी ग्राहक सेवा टीम आपकी पूरी मदद करेगी हमारी टीम हर दिन सुबह से रात तक उपलब्ध रहती है और आप हमें कभी भी कॉल कर सकते हैं हमें अपनी सेवा का अवसर देने के लिए धन्यवाद
+timbre-v3.0|Shivani|wav24k|r1|lf_hi,timbre-v3.0,main,wav24k,Shivani,lf_hi,long_form,hi-IN,prisma,last sentence heard,words,True,"नमस्ते आपकी बीमा पॉलिसी के नवीनीकरण के बारे में जानकारी देने के लिए हम आपसे संपर्क कर रहे हैं आपकी पॉलिसी अगले महीने समाप्त हो रही है इसलिए समय पर प्रीमियम जमा करना ज़रूरी है ताकि आपका बीमा कवर बिना रुकावट जारी रहे आप हमारी वेबसाइट मोबाइल ऐप या नज़दीकी शाखा में जाकर भुगतान कर सकते हैं अगर आपने हाल ही में अपना पता या मोबाइल नंबर बदला है तो कृपया उसे भी अपडेट करवा लें ताकि ज़रूरी सूचनाएं आप तक समय पर पहुँच सके अगर आपको प्रीमियम की राशि या भुगतान के तरीके के बारे में कोई संदेह है तो हमारी ग्राहक सेवा टीम आपकी पूरी मदद करेगी, हमारी टीम हर दिन सुबह से रात तक उपलब्ध रहती है और आप हमें कभी भी कॉल कर सकते हैं हमें अपनी सेवा का अवसर देने के लिए  धन्यवाद"
+timbre-v3.0|Shivani|wav24k|r1|lf_en,timbre-v3.0,main,wav24k,Shivani,lf_en,long_form,en-IN,sarvam,last sentence heard,words,True,"Thank you for calling customer care. We would like to inform you about some important changes to your savings account. Starting next month, the minimum balance requirement will be revised, and a monthly statement will be sent to your registered email address instead of a printed copy. If you would prefer to continue receiving printed statements, you can request this through our mobile application or at any branch. We also recommend that you enable two factor authentication for online banking.
+As it adds an extra layer of protection to your account.
+Please remember that our staff will never ask you for your password or one time password over the phone.
+If you receive any suspicious call or message, report it to us immediately through the helpline.
+We appreciate your trust in our bank and look forward to serving you."
+timbre-v3.0|Shivani|wav24k|r1|lf_en,timbre-v3.0,main,wav24k,Shivani,lf_en,long_form,en-IN,prisma,last sentence heard,words,True,thank you for calling customer care we would like to inform you about some important changes to your savings account starting next month the minimum balance requirement will be revised and a monthly statement will be sent to your registered email address instead of a printed copy if you would prefer to continue receiving printed statements you can request this through our mobile application or at any branch we also recommend that you enable two factor authentication for online banking as it adds an extra layer of protection to your account please remember that our staff will never ask you for your password or one time password over the phone if you receive any suspicious call or message report it to us immediately through the helpline we appreciate your trust in our bank and look forward to serving you
+timbre-v3.0|Shivani|wav24k|r1|lf_cs,timbre-v3.0,main,wav24k,Shivani,lf_cs,long_form,hi-en,sarvam,last sentence heard,words,False,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे।
+timbre-v3.0|Shivani|wav24k|r1|lf_cs,timbre-v3.0,main,wav24k,Shivani,lf_cs,long_form,hi-en,prisma,last sentence heard,words,False,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे
+timbre-v3.0|Shivani|wav24k|r1|tag_pauses,timbre-v3.0,main,wav24k,Shivani,tag_pauses,audio_tags,en-IN,sarvam,<pauses> not read aloud,absent,True,Let me check that for you. Found it. Your order ships tomorrow.
+timbre-v3.0|Shivani|wav24k|r1|tag_pauses,timbre-v3.0,main,wav24k,Shivani,tag_pauses,audio_tags,en-IN,prisma,<pauses> not read aloud,absent,True,let me check that for you found it your order ships tomorrow
+timbre-v3.0|Shivani|wav24k|r1|tag_whispers,timbre-v3.0,main,wav24k,Shivani,tag_whispers,audio_tags,en-IN,sarvam,<whispers> not read aloud,absent,True,Please hold on. Your order is almost ready.
+timbre-v3.0|Shivani|wav24k|r1|tag_whispers,timbre-v3.0,main,wav24k,Shivani,tag_whispers,audio_tags,en-IN,prisma,<whispers> not read aloud,absent,True,please hold on your order is almost ready
+timbre-v3.0|Shivani|wav24k|r1|tag_shouting,timbre-v3.0,main,wav24k,Shivani,tag_shouting,audio_tags,en-IN,sarvam,<shouting> not read aloud,absent,True,This is a final reminder to pay your dues.
+timbre-v3.0|Shivani|wav24k|r1|tag_shouting,timbre-v3.0,main,wav24k,Shivani,tag_shouting,audio_tags,en-IN,prisma,<shouting> not read aloud,absent,True,this is a final reminder to pay your dues
+timbre-v3.0|Shivani|wav24k|r1|tag_slow,timbre-v3.0,main,wav24k,Shivani,tag_slow,audio_tags,en-IN,sarvam,<slow> not read aloud,absent,True,Please note your reference number carefully.
+timbre-v3.0|Shivani|wav24k|r1|tag_slow,timbre-v3.0,main,wav24k,Shivani,tag_slow,audio_tags,en-IN,prisma,<slow> not read aloud,absent,True,please note your reference number carefully
+timbre-v3.0|Shivani|wav24k|r1|tag_laugh,timbre-v3.0,main,wav24k,Shivani,tag_laugh,audio_tags,hi-IN,sarvam,<laugh> not read aloud,absent,True,आपका ऑर्डर आ गया है बहुत अच्छा चुनाव किया आपने।
+timbre-v3.0|Shivani|wav24k|r1|tag_laugh,timbre-v3.0,main,wav24k,Shivani,tag_laugh,audio_tags,hi-IN,prisma,<laugh> not read aloud,absent,True,"आपका ऑर्डर आ गया है, बहुत अच्छा चुनाव किया आपने"
+timbre-v3.0|Shivani|wav24k|r1|tag_sigh,timbre-v3.0,main,wav24k,Shivani,tag_sigh,audio_tags,en-IN,sarvam,<sigh> not read aloud,absent,True,I understand. These things happen.
+timbre-v3.0|Shivani|wav24k|r1|tag_sigh,timbre-v3.0,main,wav24k,Shivani,tag_sigh,audio_tags,en-IN,prisma,<sigh> not read aloud,absent,True,i understand these things happen
+timbre-v3.0|Shivani|mulaw8k|r1|num_hi_02,timbre-v3.0,telephony,mulaw8k,Shivani,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v3.0|Shivani|mulaw8k|r1|num_hi_02,timbre-v3.0,telephony,mulaw8k,Shivani,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं
+timbre-v3.0|Shivani|mulaw8k|r1|num_en_02,timbre-v3.0,telephony,mulaw8k,Shivani,num_en_02,numbers,en-IN,sarvam,lakh amount,words,True,A payment of two lakh fifty thousand rupees has been credited.
+timbre-v3.0|Shivani|mulaw8k|r1|num_en_02,timbre-v3.0,telephony,mulaw8k,Shivani,num_en_02,numbers,en-IN,prisma,lakh amount,words,True,a payment of two lakh fifty thousand rupees has been credited
+timbre-v3.0|Shivani|mulaw8k|r1|id_hi_01,timbre-v3.0,telephony,mulaw8k,Shivani,id_hi_01,identifiers,hi-IN,sarvam,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v3.0|Shivani|mulaw8k|r1|id_hi_01,timbre-v3.0,telephony,mulaw8k,Shivani,id_hi_01,identifiers,hi-IN,prisma,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v3.0|Shivani|mulaw8k|r1|id_en_01,timbre-v3.0,telephony,mulaw8k,Shivani,id_en_01,identifiers,en-IN,sarvam,phone,digits,True,My mobile number is nine eight seven six five four three two one zero.
+timbre-v3.0|Shivani|mulaw8k|r1|id_en_01,timbre-v3.0,telephony,mulaw8k,Shivani,id_en_01,identifiers,en-IN,prisma,phone,digits,True,my mobile number is nine eight seven six five four three two one zero
+timbre-v3.0|Shivani|wav24k|r2|num_hi_02,timbre-v3.0,repeat,wav24k,Shivani,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v3.0|Shivani|wav24k|r2|num_hi_02,timbre-v3.0,repeat,wav24k,Shivani,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं
+timbre-v3.0|Shivani|wav24k|r3|num_hi_02,timbre-v3.0,repeat,wav24k,Shivani,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v3.0|Shivani|wav24k|r3|num_hi_02,timbre-v3.0,repeat,wav24k,Shivani,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं
+timbre-v3.0|Shivani|wav24k|r2|id_hi_02,timbre-v3.0,repeat,wav24k,Shivani,id_hi_02,identifiers,hi-IN,sarvam,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Shivani|wav24k|r2|id_hi_02,timbre-v3.0,repeat,wav24k,Shivani,id_hi_02,identifiers,hi-IN,prisma,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Shivani|wav24k|r2|id_hi_02,timbre-v3.0,repeat,wav24k,Shivani,id_hi_02,identifiers,hi-IN,sarvam,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Shivani|wav24k|r2|id_hi_02,timbre-v3.0,repeat,wav24k,Shivani,id_hi_02,identifiers,hi-IN,prisma,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Shivani|wav24k|r3|id_hi_02,timbre-v3.0,repeat,wav24k,Shivani,id_hi_02,identifiers,hi-IN,sarvam,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Shivani|wav24k|r3|id_hi_02,timbre-v3.0,repeat,wav24k,Shivani,id_hi_02,identifiers,hi-IN,prisma,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Shivani|wav24k|r3|id_hi_02,timbre-v3.0,repeat,wav24k,Shivani,id_hi_02,identifiers,hi-IN,sarvam,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Shivani|wav24k|r3|id_hi_02,timbre-v3.0,repeat,wav24k,Shivani,id_hi_02,identifiers,hi-IN,prisma,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v3.0|Avinash|wav24k|r1|num_hi_01,timbre-v3.0,voices,wav24k,Avinash,num_hi_01,numbers,hi-IN,sarvam,amount,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v3.0|Avinash|wav24k|r1|num_hi_01,timbre-v3.0,voices,wav24k,Avinash,num_hi_01,numbers,hi-IN,prisma,amount,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है
+timbre-v3.0|Avinash|wav24k|r1|num_hi_01,timbre-v3.0,voices,wav24k,Avinash,num_hi_01,numbers,hi-IN,sarvam,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v3.0|Avinash|wav24k|r1|num_hi_01,timbre-v3.0,voices,wav24k,Avinash,num_hi_01,numbers,hi-IN,prisma,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है
+timbre-v3.0|Tarika|wav24k|r1|num_hi_01,timbre-v3.0,voices,wav24k,Tarika,num_hi_01,numbers,hi-IN,sarvam,amount,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v3.0|Tarika|wav24k|r1|num_hi_01,timbre-v3.0,voices,wav24k,Tarika,num_hi_01,numbers,hi-IN,prisma,amount,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है
+timbre-v3.0|Tarika|wav24k|r1|num_hi_01,timbre-v3.0,voices,wav24k,Tarika,num_hi_01,numbers,hi-IN,sarvam,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v3.0|Tarika|wav24k|r1|num_hi_01,timbre-v3.0,voices,wav24k,Tarika,num_hi_01,numbers,hi-IN,prisma,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है
+timbre-v3.0|Avinash|wav24k|r1|num_hi_02,timbre-v3.0,voices,wav24k,Avinash,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v3.0|Avinash|wav24k|r1|num_hi_02,timbre-v3.0,voices,wav24k,Avinash,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं
+timbre-v3.0|Tarika|wav24k|r1|num_hi_02,timbre-v3.0,voices,wav24k,Tarika,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v3.0|Tarika|wav24k|r1|num_hi_02,timbre-v3.0,voices,wav24k,Tarika,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं
+timbre-v3.0|Avinash|wav24k|r1|id_hi_01,timbre-v3.0,voices,wav24k,Avinash,id_hi_01,identifiers,hi-IN,sarvam,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छः पाँच चार तीन दो एक शून्य है
+timbre-v3.0|Avinash|wav24k|r1|id_hi_01,timbre-v3.0,voices,wav24k,Avinash,id_hi_01,identifiers,hi-IN,prisma,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v3.0|Tarika|wav24k|r1|id_hi_01,timbre-v3.0,voices,wav24k,Tarika,id_hi_01,identifiers,hi-IN,sarvam,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छः पाँच चार तीन दो एक शून्य है।
+timbre-v3.0|Tarika|wav24k|r1|id_hi_01,timbre-v3.0,voices,wav24k,Tarika,id_hi_01,identifiers,hi-IN,prisma,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v3.0|Shivani|wav24k|r2|lf_cs,timbre-v3.0,probe,wav24k,Shivani,lf_cs,long_form,hi-en,sarvam,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे
+timbre-v3.0|Shivani|wav24k|r2|lf_cs,timbre-v3.0,probe,wav24k,Shivani,lf_cs,long_form,hi-en,prisma,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे
+timbre-v3.0|Shivani|wav24k|r3|lf_cs,timbre-v3.0,probe,wav24k,Shivani,lf_cs,long_form,hi-en,sarvam,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है। आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे। अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं। इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए। कोई भी डाउट हो तो हमारी टीम से बात कीजिए। हम आपकी पूरी हेल्प करेंगे।
+timbre-v3.0|Shivani|wav24k|r3|lf_cs,timbre-v3.0,probe,wav24k,Shivani,lf_cs,long_form,hi-en,prisma,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे
+timbre-v3.0|Shivani|wav24k|r4|lf_cs,timbre-v3.0,probe,wav24k,Shivani,lf_cs,long_form,hi-en,sarvam,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे
+timbre-v3.0|Shivani|wav24k|r4|lf_cs,timbre-v3.0,probe,wav24k,Shivani,lf_cs,long_form,hi-en,prisma,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे
+timbre-v2.5|Nalini|wav24k|r1|num_hi_01,timbre-v2.5,main,wav24k,Nalini,num_hi_01,numbers,hi-IN,sarvam,amount,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_01,timbre-v2.5,main,wav24k,Nalini,num_hi_01,numbers,hi-IN,prisma,amount,words,True,आपकी ई एम आई बारह हज़ार पांच सौ रुपये है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_01,timbre-v2.5,main,wav24k,Nalini,num_hi_01,numbers,hi-IN,sarvam,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_01,timbre-v2.5,main,wav24k,Nalini,num_hi_01,numbers,hi-IN,prisma,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पांच सौ रुपये है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_02,timbre-v2.5,main,wav24k,Nalini,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_02,timbre-v2.5,main,wav24k,Nalini,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_03,timbre-v2.5,main,wav24k,Nalini,num_hi_03,numbers,hi-IN,sarvam,rupees,words,True,बिल की राशि चार हज़ार तीन सौ बारह रुपये और पचास पैसे है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_03,timbre-v2.5,main,wav24k,Nalini,num_hi_03,numbers,hi-IN,prisma,rupees,words,True,बिल की राशि चार हज़ार तीन सौ बारह रुपए और पचास पैसे है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_03,timbre-v2.5,main,wav24k,Nalini,num_hi_03,numbers,hi-IN,sarvam,paise,words,True,बिल की राशि चार हज़ार तीन सौ बारह रुपये और पचास पैसे है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_03,timbre-v2.5,main,wav24k,Nalini,num_hi_03,numbers,hi-IN,prisma,paise,words,True,बिल की राशि चार हज़ार तीन सौ बारह रुपए और पचास पैसे है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_04,timbre-v2.5,main,wav24k,Nalini,num_hi_04,numbers,hi-IN,sarvam,crore decimal,words,True,कंपनी का मुनाफा बारह दशमलव छह करोड़ रुपये रहा।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_04,timbre-v2.5,main,wav24k,Nalini,num_hi_04,numbers,hi-IN,prisma,crore decimal,words,True,कंपनी का मुनाफा बारह दशमलव छह करोड़ रुपये रहा।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_05,timbre-v2.5,main,wav24k,Nalini,num_hi_05,numbers,hi-IN,sarvam,percent,words,True,होम लोन पर ब्याज दर आठ दशमलव पाँच प्रतिशत है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_05,timbre-v2.5,main,wav24k,Nalini,num_hi_05,numbers,hi-IN,prisma,percent,words,True,होम लोन पर ब्याज दर आठ दशमलव पांच प्रतिशत है
+timbre-v2.5|Nalini|wav24k|r1|num_hi_06,timbre-v2.5,main,wav24k,Nalini,num_hi_06,numbers,hi-IN,sarvam,cardinal,words,True,इस महीने बयालीस ग्राहकों ने शिकायत की।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_06,timbre-v2.5,main,wav24k,Nalini,num_hi_06,numbers,hi-IN,prisma,cardinal,words,True,इस महीने बयालीस ग्राहकों ने शिकायत की।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_07,timbre-v2.5,main,wav24k,Nalini,num_hi_07,numbers,hi-IN,sarvam,price,words,True,पाँच सौ निन्यानवे रुपये का रिचार्ज अट्ठाईस दिनों के लिए है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_07,timbre-v2.5,main,wav24k,Nalini,num_hi_07,numbers,hi-IN,prisma,price,words,False,पाँच सौ निन्यानबे रुपये का रिचार्ज अट्ठाईस दिनों के लिए है
+timbre-v2.5|Nalini|wav24k|r1|num_hi_07,timbre-v2.5,main,wav24k,Nalini,num_hi_07,numbers,hi-IN,sarvam,duration,words,True,पाँच सौ निन्यानवे रुपये का रिचार्ज अट्ठाईस दिनों के लिए है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_07,timbre-v2.5,main,wav24k,Nalini,num_hi_07,numbers,hi-IN,prisma,duration,words,True,पाँच सौ निन्यानबे रुपये का रिचार्ज अट्ठाईस दिनों के लिए है
+timbre-v2.5|Nalini|wav24k|r1|num_hi_08,timbre-v2.5,main,wav24k,Nalini,num_hi_08,numbers,hi-IN,sarvam,ordinal,words,True,आपको पाँचवाँ किस्त अगले महीने भरनी है।
+timbre-v2.5|Nalini|wav24k|r1|num_hi_08,timbre-v2.5,main,wav24k,Nalini,num_hi_08,numbers,hi-IN,prisma,ordinal,words,True,आपको पाँचवाँ किस्त अगले महीने भरनी है।
+timbre-v2.5|Kaveri|wav24k|r1|num_en_01,timbre-v2.5,main,wav24k,Kaveri,num_en_01,numbers,en-IN,sarvam,amount,words,True,Your EMI of fifteen thousand rupees is due next week.
+timbre-v2.5|Kaveri|wav24k|r1|num_en_01,timbre-v2.5,main,wav24k,Kaveri,num_en_01,numbers,en-IN,prisma,amount,words,True,your emi of fifteen thousand rupees is due next week
+timbre-v2.5|Kaveri|wav24k|r1|num_en_01,timbre-v2.5,main,wav24k,Kaveri,num_en_01,numbers,en-IN,sarvam,EMI spelled,words,True,Your EMI of fifteen thousand rupees is due next week.
+timbre-v2.5|Kaveri|wav24k|r1|num_en_01,timbre-v2.5,main,wav24k,Kaveri,num_en_01,numbers,en-IN,prisma,EMI spelled,words,True,your emi of fifteen thousand rupees is due next week
+timbre-v2.5|Kaveri|wav24k|r1|num_en_02,timbre-v2.5,main,wav24k,Kaveri,num_en_02,numbers,en-IN,sarvam,lakh amount,words,True,A payment of two lakh fifty thousand rupees has been credited.
+timbre-v2.5|Kaveri|wav24k|r1|num_en_02,timbre-v2.5,main,wav24k,Kaveri,num_en_02,numbers,en-IN,prisma,lakh amount,words,True,a payment of two lakh fifty thousand rupees has been credited
+timbre-v2.5|Kaveri|wav24k|r1|num_en_03,timbre-v2.5,main,wav24k,Kaveri,num_en_03,numbers,en-IN,sarvam,rupees,words,True,The bill amount is four thousand three hundred twelve rupees and fifty paise.
+timbre-v2.5|Kaveri|wav24k|r1|num_en_03,timbre-v2.5,main,wav24k,Kaveri,num_en_03,numbers,en-IN,prisma,rupees,words,True,the bill amount is four thousand three hundred twelve rupees and fifty paise
+timbre-v2.5|Kaveri|wav24k|r1|num_en_03,timbre-v2.5,main,wav24k,Kaveri,num_en_03,numbers,en-IN,sarvam,paise,words,True,The bill amount is four thousand three hundred twelve rupees and fifty paise.
+timbre-v2.5|Kaveri|wav24k|r1|num_en_03,timbre-v2.5,main,wav24k,Kaveri,num_en_03,numbers,en-IN,prisma,paise,words,True,the bill amount is four thousand three hundred twelve rupees and fifty paise
+timbre-v2.5|Kaveri|wav24k|r1|num_en_04,timbre-v2.5,main,wav24k,Kaveri,num_en_04,numbers,en-IN,sarvam,crore decimal,words,True,Revenue grew to twelve point six crore rupees this year.
+timbre-v2.5|Kaveri|wav24k|r1|num_en_04,timbre-v2.5,main,wav24k,Kaveri,num_en_04,numbers,en-IN,prisma,crore decimal,words,True,revenue grew to twelve point six crore rupees this year
+timbre-v2.5|Kaveri|wav24k|r1|num_en_05,timbre-v2.5,main,wav24k,Kaveri,num_en_05,numbers,en-IN,sarvam,percent,words,True,The interest rate is eight point five percent.
+timbre-v2.5|Kaveri|wav24k|r1|num_en_05,timbre-v2.5,main,wav24k,Kaveri,num_en_05,numbers,en-IN,prisma,percent,words,True,the interest rate is eight point five percent
+timbre-v2.5|Kaveri|wav24k|r1|num_en_05,timbre-v2.5,main,wav24k,Kaveri,num_en_05,numbers,en-IN,sarvam,per annum,words,False,The interest rate is eight point five percent.
+timbre-v2.5|Kaveri|wav24k|r1|num_en_05,timbre-v2.5,main,wav24k,Kaveri,num_en_05,numbers,en-IN,prisma,per annum,words,False,the interest rate is eight point five percent
+timbre-v2.5|Kaveri|wav24k|r1|num_en_06,timbre-v2.5,main,wav24k,Kaveri,num_en_06,numbers,en-IN,sarvam,unit,words,True,The temperature today is thirty eight degrees Celsius.
+timbre-v2.5|Kaveri|wav24k|r1|num_en_06,timbre-v2.5,main,wav24k,Kaveri,num_en_06,numbers,en-IN,prisma,unit,words,True,the temperature today is thirty eight degrees celsius
+timbre-v2.5|Kaveri|wav24k|r1|num_en_07,timbre-v2.5,main,wav24k,Kaveri,num_en_07,numbers,en-IN,sarvam,unit,words,True,Your data pack includes one point five gigabytes per day.
+timbre-v2.5|Kaveri|wav24k|r1|num_en_07,timbre-v2.5,main,wav24k,Kaveri,num_en_07,numbers,en-IN,prisma,unit,words,True,your data pack includes one point five gigabytes per day
+timbre-v2.5|Kaveri|wav24k|r1|num_en_08,timbre-v2.5,main,wav24k,Kaveri,num_en_08,numbers,en-IN,sarvam,unit,words,True,The parcel weighs two point five kilograms.
+timbre-v2.5|Kaveri|wav24k|r1|num_en_08,timbre-v2.5,main,wav24k,Kaveri,num_en_08,numbers,en-IN,prisma,unit,words,True,the parcel weighs two point five kilograms
+timbre-v2.5|Nalini|wav24k|r1|dt_hi_01,timbre-v2.5,main,wav24k,Nalini,dt_hi_01,dates_times,hi-IN,sarvam,date,words,True,आपकी अगली किस्त पच्चीस जून दो हज़ार छब्बीस को देय है।
+timbre-v2.5|Nalini|wav24k|r1|dt_hi_01,timbre-v2.5,main,wav24k,Nalini,dt_hi_01,dates_times,hi-IN,prisma,date,words,True,आपकी अगली किस्त पच्चीस जून दो हज़ार छब्बीस को देय है
+timbre-v2.5|Nalini|wav24k|r1|dt_hi_02,timbre-v2.5,main,wav24k,Nalini,dt_hi_02,dates_times,hi-IN,sarvam,date,words,True,पॉलिसी पंद्रह जनवरी दो हज़ार सत्ताईस को समाप्त होगी।
+timbre-v2.5|Nalini|wav24k|r1|dt_hi_02,timbre-v2.5,main,wav24k,Nalini,dt_hi_02,dates_times,hi-IN,prisma,date,words,True,पॉलिसी पंद्रह जनवरी दो हजार सत्ताईस को समाप्त होगी।
+timbre-v2.5|Nalini|wav24k|r1|dt_hi_03,timbre-v2.5,main,wav24k,Nalini,dt_hi_03,dates_times,hi-IN,sarvam,time,words,True,हमारा एजेंट आपको शाम पाँच बजकर तीस मिनट कॉल करेगा।
+timbre-v2.5|Nalini|wav24k|r1|dt_hi_03,timbre-v2.5,main,wav24k,Nalini,dt_hi_03,dates_times,hi-IN,prisma,time,words,True,हमारा एजेंट आपको शाम पांच बजकर तीस मिनट कॉल करेगा।
+timbre-v2.5|Nalini|wav24k|r1|dt_hi_04,timbre-v2.5,main,wav24k,Nalini,dt_hi_04,dates_times,hi-IN,sarvam,time,words,True,शाखा सुबह दस बजे खुलती है।
+timbre-v2.5|Nalini|wav24k|r1|dt_hi_04,timbre-v2.5,main,wav24k,Nalini,dt_hi_04,dates_times,hi-IN,prisma,time,words,True,शाखा सुबह दस बजे खुलती है।
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_01,timbre-v2.5,main,wav24k,Kaveri,dt_en_01,dates_times,en-IN,sarvam,date,words,True,Your appointment is on twenty fifth June twenty twenty six.
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_01,timbre-v2.5,main,wav24k,Kaveri,dt_en_01,dates_times,en-IN,prisma,date,words,True,your appointment is on twenty fifth june twenty twenty six
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_02,timbre-v2.5,main,wav24k,Kaveri,dt_en_02,dates_times,en-IN,sarvam,time,words,True,The meeting is at five thirty p.m.
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_02,timbre-v2.5,main,wav24k,Kaveri,dt_en_02,dates_times,en-IN,prisma,time,words,True,the meeting is at five thirty pm
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_03,timbre-v2.5,main,wav24k,Kaveri,dt_en_03,dates_times,en-IN,sarvam,24h time,words,True,The office closes at eight p m
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_03,timbre-v2.5,main,wav24k,Kaveri,dt_en_03,dates_times,en-IN,prisma,24h time,words,True,the office closes at eight pm
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_04,timbre-v2.5,main,wav24k,Kaveri,dt_en_04,dates_times,en-IN,sarvam,financial year,words,True,This report covers financial year twenty twenty four twenty twenty five.
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_04,timbre-v2.5,main,wav24k,Kaveri,dt_en_04,dates_times,en-IN,prisma,financial year,words,True,this report covers financial year twenty twenty four twenty twenty five
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_05,timbre-v2.5,main,wav24k,Kaveri,dt_en_05,dates_times,en-IN,sarvam,quarter,words,True,Results for quarter one of financial year twenty twenty four twenty twenty five are out.
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_05,timbre-v2.5,main,wav24k,Kaveri,dt_en_05,dates_times,en-IN,prisma,quarter,words,True,results for quarter one of financial year twenty twenty four twenty twenty five are out
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_06,timbre-v2.5,main,wav24k,Kaveri,dt_en_06,dates_times,en-IN,sarvam,fraction,words,True,Only one by two of the fee is refundable.
+timbre-v2.5|Kaveri|wav24k|r1|dt_en_06,timbre-v2.5,main,wav24k,Kaveri,dt_en_06,dates_times,en-IN,prisma,fraction,words,True,only one by two of the fee is refundable
+timbre-v2.5|Nalini|wav24k|r1|id_hi_01,timbre-v2.5,main,wav24k,Nalini,id_hi_01,identifiers,hi-IN,sarvam,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v2.5|Nalini|wav24k|r1|id_hi_01,timbre-v2.5,main,wav24k,Nalini,id_hi_01,identifiers,hi-IN,prisma,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v2.5|Nalini|wav24k|r1|id_hi_02,timbre-v2.5,main,wav24k,Nalini,id_hi_02,identifiers,hi-IN,sarvam,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Nalini|wav24k|r1|id_hi_02,timbre-v2.5,main,wav24k,Nalini,id_hi_02,identifiers,hi-IN,prisma,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Nalini|wav24k|r1|id_hi_02,timbre-v2.5,main,wav24k,Nalini,id_hi_02,identifiers,hi-IN,sarvam,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Nalini|wav24k|r1|id_hi_02,timbre-v2.5,main,wav24k,Nalini,id_hi_02,identifiers,hi-IN,prisma,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Nalini|wav24k|r1|id_hi_03,timbre-v2.5,main,wav24k,Nalini,id_hi_03,identifiers,hi-IN,sarvam,OTP repeated digits,digits,True,आपका ओ टी पी चार चार आठ आठ दो दो है।
+timbre-v2.5|Nalini|wav24k|r1|id_hi_03,timbre-v2.5,main,wav24k,Nalini,id_hi_03,identifiers,hi-IN,prisma,OTP repeated digits,digits,True,आपका ओ टी पी चार चार आठ आठ दो दो है।
+timbre-v2.5|Nalini|wav24k|r1|id_hi_04,timbre-v2.5,main,wav24k,Nalini,id_hi_04,identifiers,hi-IN,sarvam,account,digits,True,आपका खाता नंबर पाँच शून्य एक शून्य शून्य दो तीन चार पाँच छह सात है।
+timbre-v2.5|Nalini|wav24k|r1|id_hi_04,timbre-v2.5,main,wav24k,Nalini,id_hi_04,identifiers,hi-IN,prisma,account,digits,True,आपका खाता नंबर पाँच शून्य एक शून्य शून्य दो तीन चार पाँच छह सात है।
+timbre-v2.5|Kaveri|wav24k|r1|id_en_01,timbre-v2.5,main,wav24k,Kaveri,id_en_01,identifiers,en-IN,sarvam,phone,digits,True,My mobile number is nine eight seven six five four three two one zero
+timbre-v2.5|Kaveri|wav24k|r1|id_en_01,timbre-v2.5,main,wav24k,Kaveri,id_en_01,identifiers,en-IN,prisma,phone,digits,True,my mobile number is nine eight seven six five four three two one zero
+timbre-v2.5|Kaveri|wav24k|r1|id_en_02,timbre-v2.5,main,wav24k,Kaveri,id_en_02,identifiers,en-IN,sarvam,OTP,digits,True,Your O T P is four eight two nine one three
+timbre-v2.5|Kaveri|wav24k|r1|id_en_02,timbre-v2.5,main,wav24k,Kaveri,id_en_02,identifiers,en-IN,prisma,OTP,digits,True,your otp is four eight two nine one three
+timbre-v2.5|Kaveri|wav24k|r1|id_en_03,timbre-v2.5,main,wav24k,Kaveri,id_en_03,identifiers,en-IN,sarvam,OTP repeated digits,digits,True,Your O T P is double four double eight double two
+timbre-v2.5|Kaveri|wav24k|r1|id_en_03,timbre-v2.5,main,wav24k,Kaveri,id_en_03,identifiers,en-IN,prisma,OTP repeated digits,digits,True,your otp is double four double eight double two
+timbre-v2.5|Kaveri|wav24k|r1|id_en_04,timbre-v2.5,main,wav24k,Kaveri,id_en_04,identifiers,en-IN,sarvam,toll-free,digits,True,Please call our toll free number one eight zero zero four four zero one two three four
+timbre-v2.5|Kaveri|wav24k|r1|id_en_04,timbre-v2.5,main,wav24k,Kaveri,id_en_04,identifiers,en-IN,prisma,toll-free,digits,True,please call our toll free number one eight zero zero four four zero one two three four
+timbre-v2.5|Kaveri|wav24k|r1|id_en_05,timbre-v2.5,main,wav24k,Kaveri,id_en_05,identifiers,en-IN,sarvam,PAN,alnum,True,Your PAN is a b c d e one two three four f
+timbre-v2.5|Kaveri|wav24k|r1|id_en_05,timbre-v2.5,main,wav24k,Kaveri,id_en_05,identifiers,en-IN,prisma,PAN,alnum,True,your pan is a b c d e one two three four f
+timbre-v2.5|Kaveri|wav24k|r1|id_en_06,timbre-v2.5,main,wav24k,Kaveri,id_en_06,identifiers,en-IN,sarvam,IFSC,alnum,True,The I F S C Code is S B I N zero zero zero one two three four
+timbre-v2.5|Kaveri|wav24k|r1|id_en_06,timbre-v2.5,main,wav24k,Kaveri,id_en_06,identifiers,en-IN,prisma,IFSC,alnum,True,the ifsc code is sbin zero zero zero one two three four
+timbre-v2.5|Kaveri|wav24k|r1|id_en_07,timbre-v2.5,main,wav24k,Kaveri,id_en_07,identifiers,en-IN,sarvam,Aadhaar,digits,True,Your Aadhaar number is one two three four five six seven eight nine zero one two
+timbre-v2.5|Kaveri|wav24k|r1|id_en_07,timbre-v2.5,main,wav24k,Kaveri,id_en_07,identifiers,en-IN,prisma,Aadhaar,digits,True,your aadhaar number is one two three four five six seven eight nine zero one two
+timbre-v2.5|Kaveri|wav24k|r1|id_en_08,timbre-v2.5,main,wav24k,Kaveri,id_en_08,identifiers,en-IN,sarvam,14-digit reference,digits,True,Your reference number is two zero two six zero six one five zero zero four five one two
+timbre-v2.5|Kaveri|wav24k|r1|id_en_08,timbre-v2.5,main,wav24k,Kaveri,id_en_08,identifiers,en-IN,prisma,14-digit reference,digits,True,your reference number is two zero two six zero six one five zero zero four five one two
+timbre-v2.5|Kaveri|wav24k|r1|id_en_09,timbre-v2.5,main,wav24k,Kaveri,id_en_09,identifiers,en-IN,sarvam,masked card,digits,True,Your card ending four eight two one has been blocked
+timbre-v2.5|Kaveri|wav24k|r1|id_en_09,timbre-v2.5,main,wav24k,Kaveri,id_en_09,identifiers,en-IN,prisma,masked card,digits,True,your card ending four eight two one has been blocked
+timbre-v2.5|Kaveri|wav24k|r1|id_en_09,timbre-v2.5,main,wav24k,Kaveri,id_en_09,identifiers,en-IN,sarvam,mask not read,absent,True,Your card ending four eight two one has been blocked
+timbre-v2.5|Kaveri|wav24k|r1|id_en_09,timbre-v2.5,main,wav24k,Kaveri,id_en_09,identifiers,en-IN,prisma,mask not read,absent,True,your card ending four eight two one has been blocked
+timbre-v2.5|Kaveri|wav24k|r1|id_en_10,timbre-v2.5,main,wav24k,Kaveri,id_en_10,identifiers,en-IN,sarvam,plate,alnum,True,Vehicle number D L one C A F five zero three one has a pending challan
+timbre-v2.5|Kaveri|wav24k|r1|id_en_10,timbre-v2.5,main,wav24k,Kaveri,id_en_10,identifiers,en-IN,prisma,plate,alnum,True,vehicle number d l one caf five zero three one has a pending challenge
+timbre-v2.5|Nalini|wav24k|r1|ab_hi_01,timbre-v2.5,main,wav24k,Nalini,ab_hi_01,abbreviations,hi-IN,sarvam,KYC,words,True,कृपया अपना के वाई सी अपडेट करें और यू पी आई से भुगतान करें।
+timbre-v2.5|Nalini|wav24k|r1|ab_hi_01,timbre-v2.5,main,wav24k,Nalini,ab_hi_01,abbreviations,hi-IN,prisma,KYC,words,True,कृपया अपना केवाईसी अपडेट करें और यू पी आई से भुगतान करें।
+timbre-v2.5|Nalini|wav24k|r1|ab_hi_01,timbre-v2.5,main,wav24k,Nalini,ab_hi_01,abbreviations,hi-IN,sarvam,UPI,words,True,कृपया अपना के वाई सी अपडेट करें और यू पी आई से भुगतान करें।
+timbre-v2.5|Nalini|wav24k|r1|ab_hi_01,timbre-v2.5,main,wav24k,Nalini,ab_hi_01,abbreviations,hi-IN,prisma,UPI,words,True,कृपया अपना केवाईसी अपडेट करें और यू पी आई से भुगतान करें।
+timbre-v2.5|Nalini|wav24k|r1|ab_hi_02,timbre-v2.5,main,wav24k,Nalini,ab_hi_02,abbreviations,hi-IN,sarvam,Dr.,words,True,डॉक्टर शर्मा कल क्लिनिक में मिलेंगे।
+timbre-v2.5|Nalini|wav24k|r1|ab_hi_02,timbre-v2.5,main,wav24k,Nalini,ab_hi_02,abbreviations,hi-IN,prisma,Dr.,words,True,डॉक्टर शर्मा कल क्लिनिक में मिलेंगे।
+timbre-v2.5|Nalini|wav24k|r1|ab_hi_03,timbre-v2.5,main,wav24k,Nalini,ab_hi_03,abbreviations,hi-IN,sarvam,Mr.,words,True,श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।
+timbre-v2.5|Nalini|wav24k|r1|ab_hi_03,timbre-v2.5,main,wav24k,Nalini,ab_hi_03,abbreviations,hi-IN,prisma,Mr.,words,True,श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।
+timbre-v2.5|Nalini|wav24k|r1|ab_hi_03,timbre-v2.5,main,wav24k,Nalini,ab_hi_03,abbreviations,hi-IN,sarvam,GST,words,True,श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।
+timbre-v2.5|Nalini|wav24k|r1|ab_hi_03,timbre-v2.5,main,wav24k,Nalini,ab_hi_03,abbreviations,hi-IN,prisma,GST,words,True,श्री वर्मा का जी एस टी नंबर अपडेट हो गया है।
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_01,timbre-v2.5,main,wav24k,Kaveri,ab_en_01,abbreviations,en-IN,sarvam,Dr.,words,True,Doctor Rao will see you at the clinic on M G Road.
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_01,timbre-v2.5,main,wav24k,Kaveri,ab_en_01,abbreviations,en-IN,prisma,Dr.,words,True,doctor rao will see you at the clinic on mg road
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_01,timbre-v2.5,main,wav24k,Kaveri,ab_en_01,abbreviations,en-IN,sarvam,Rd,words,True,Doctor Rao will see you at the clinic on M G Road.
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_01,timbre-v2.5,main,wav24k,Kaveri,ab_en_01,abbreviations,en-IN,prisma,Rd,words,True,doctor rao will see you at the clinic on mg road
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_02,timbre-v2.5,main,wav24k,Kaveri,ab_en_02,abbreviations,en-IN,sarvam,KYC,words,True,Please update your KYC to continue using UPI.
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_02,timbre-v2.5,main,wav24k,Kaveri,ab_en_02,abbreviations,en-IN,prisma,KYC,words,True,please update your kyc to continue using upi
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_02,timbre-v2.5,main,wav24k,Kaveri,ab_en_02,abbreviations,en-IN,sarvam,UPI,words,True,Please update your KYC to continue using UPI.
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_02,timbre-v2.5,main,wav24k,Kaveri,ab_en_02,abbreviations,en-IN,prisma,UPI,words,True,please update your kyc to continue using upi
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_03,timbre-v2.5,main,wav24k,Kaveri,ab_en_03,abbreviations,en-IN,sarvam,Mrs.,words,True,Mrs. Iyer works at Infosys Limited.
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_03,timbre-v2.5,main,wav24k,Kaveri,ab_en_03,abbreviations,en-IN,prisma,Mrs.,words,True,mrs iyer works at infosys limited
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_03,timbre-v2.5,main,wav24k,Kaveri,ab_en_03,abbreviations,en-IN,sarvam,Ltd,words,True,Mrs. Iyer works at Infosys Limited.
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_03,timbre-v2.5,main,wav24k,Kaveri,ab_en_03,abbreviations,en-IN,prisma,Ltd,words,True,mrs iyer works at infosys limited
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_04,timbre-v2.5,main,wav24k,Kaveri,ab_en_04,abbreviations,en-IN,sarvam,St. (Saint),words,True,Saint Xavier's College is on Main Street Mumbai
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_04,timbre-v2.5,main,wav24k,Kaveri,ab_en_04,abbreviations,en-IN,prisma,St. (Saint),words,True,saint xavier's college is on main street mumbai
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_04,timbre-v2.5,main,wav24k,Kaveri,ab_en_04,abbreviations,en-IN,sarvam,St (Street),words,True,Saint Xavier's College is on Main Street Mumbai
+timbre-v2.5|Kaveri|wav24k|r1|ab_en_04,timbre-v2.5,main,wav24k,Kaveri,ab_en_04,abbreviations,en-IN,prisma,St (Street),words,True,saint xavier's college is on main street mumbai
+timbre-v2.5|Kaveri|wav24k|r1|web_en_01,timbre-v2.5,main,wav24k,Kaveri,web_en_01,web_symbols,en-IN,sarvam,email,words,False,Write to us at s u p p o r t at h d f bank dot com
+timbre-v2.5|Kaveri|wav24k|r1|web_en_01,timbre-v2.5,main,wav24k,Kaveri,web_en_01,web_symbols,en-IN,prisma,email,words,True,write to us at sup p o r t at hdfc bank dot com
+timbre-v2.5|Kaveri|wav24k|r1|web_en_02,timbre-v2.5,main,wav24k,Kaveri,web_en_02,web_symbols,en-IN,sarvam,url,words,True,Visit www dot gov dot in for more details
+timbre-v2.5|Kaveri|wav24k|r1|web_en_02,timbre-v2.5,main,wav24k,Kaveri,web_en_02,web_symbols,en-IN,prisma,url,words,True,visit www dot gov dot in for more details
+timbre-v2.5|Kaveri|wav24k|r1|web_en_03,timbre-v2.5,main,wav24k,Kaveri,web_en_03,web_symbols,en-IN,sarvam,UPI handle digits,digits,True,Pay to nine eight seven six five four three two one zero at Y B L using any U P I app
+timbre-v2.5|Kaveri|wav24k|r1|web_en_03,timbre-v2.5,main,wav24k,Kaveri,web_en_03,web_symbols,en-IN,prisma,UPI handle digits,digits,True,pay to nine eight seven six five four three two one zero at ybl using any upi app
+timbre-v2.5|Kaveri|wav24k|r1|web_en_03,timbre-v2.5,main,wav24k,Kaveri,web_en_03,web_symbols,en-IN,sarvam,UPI handle suffix,words,True,Pay to nine eight seven six five four three two one zero at Y B L using any U P I app
+timbre-v2.5|Kaveri|wav24k|r1|web_en_03,timbre-v2.5,main,wav24k,Kaveri,web_en_03,web_symbols,en-IN,prisma,UPI handle suffix,words,True,pay to nine eight seven six five four three two one zero at ybl using any upi app
+timbre-v2.5|Kaveri|wav24k|r1|web_en_04,timbre-v2.5,main,wav24k,Kaveri,web_en_04,web_symbols,en-IN,sarvam,24x7,words,True,Our helpline is available twenty four seven
+timbre-v2.5|Kaveri|wav24k|r1|web_en_04,timbre-v2.5,main,wav24k,Kaveri,web_en_04,web_symbols,en-IN,prisma,24x7,words,True,our helpline is available twenty four seven
+timbre-v2.5|Nalini|wav24k|r1|web_hi_01,timbre-v2.5,main,wav24k,Nalini,web_hi_01,web_symbols,hi-IN,sarvam,24x7,words,True,हमारी हेल्पलाइन चौबीस सात उपलब्ध है।
+timbre-v2.5|Nalini|wav24k|r1|web_hi_01,timbre-v2.5,main,wav24k,Nalini,web_hi_01,web_symbols,hi-IN,prisma,24x7,words,True,हमारी हेल्पलाइन चौबीस सात उपलब्ध है।
+timbre-v2.5|Poorvi|wav24k|r1|cs_01,timbre-v2.5,main,wav24k,Poorvi,cs_01,code_switch,hi-en,sarvam,payment,words,True,सर आपका पेमेंट पेंडिंग है प्लीज़ आज ही पे कर दीजिए।
+timbre-v2.5|Poorvi|wav24k|r1|cs_01,timbre-v2.5,main,wav24k,Poorvi,cs_01,code_switch,hi-en,prisma,payment,words,True,"सर आपका पेमेंट पेंडिंग है, प्लीज आज ही पे कर दीजिए"
+timbre-v2.5|Poorvi|wav24k|r1|cs_01,timbre-v2.5,main,wav24k,Poorvi,cs_01,code_switch,hi-en,sarvam,pending,words,True,सर आपका पेमेंट पेंडिंग है प्लीज़ आज ही पे कर दीजिए।
+timbre-v2.5|Poorvi|wav24k|r1|cs_01,timbre-v2.5,main,wav24k,Poorvi,cs_01,code_switch,hi-en,prisma,pending,words,True,"सर आपका पेमेंट पेंडिंग है, प्लीज आज ही पे कर दीजिए"
+timbre-v2.5|Poorvi|wav24k|r1|cs_02,timbre-v2.5,main,wav24k,Poorvi,cs_02,code_switch,hi-en,sarvam,approval,words,True,आपका लोन अप्रूवल प्रोसेस में है दो वर्किंग डेज़ लगेंगे।
+timbre-v2.5|Poorvi|wav24k|r1|cs_02,timbre-v2.5,main,wav24k,Poorvi,cs_02,code_switch,hi-en,prisma,approval,words,True,"आपका लोन अप्रूवल प्रोसेस में है, दो वर्किंग डेज़ लगेंगे।"
+timbre-v2.5|Poorvi|wav24k|r1|cs_02,timbre-v2.5,main,wav24k,Poorvi,cs_02,code_switch,hi-en,sarvam,2 working days,words,True,आपका लोन अप्रूवल प्रोसेस में है दो वर्किंग डेज़ लगेंगे।
+timbre-v2.5|Poorvi|wav24k|r1|cs_02,timbre-v2.5,main,wav24k,Poorvi,cs_02,code_switch,hi-en,prisma,2 working days,words,True,"आपका लोन अप्रूवल प्रोसेस में है, दो वर्किंग डेज़ लगेंगे।"
+timbre-v2.5|Poorvi|wav24k|r1|cs_03,timbre-v2.5,main,wav24k,Poorvi,cs_03,code_switch,hi-en,sarvam,unblock,words,True,मेरा अकाउंट ब्लॉक हो गया है प्लीज इसे अनब्लॉक कर दीजिए।
+timbre-v2.5|Poorvi|wav24k|r1|cs_03,timbre-v2.5,main,wav24k,Poorvi,cs_03,code_switch,hi-en,prisma,unblock,words,True,"मेरा अकाउंट ब्लॉक हो गया है, प्लीज इसे अनब्लॉक कर दीजिए।"
+timbre-v2.5|Poorvi|wav24k|r1|cs_04,timbre-v2.5,main,wav24k,Poorvi,cs_04,code_switch,hi-en,sarvam,Roman Hindi read as Hindi,words,True,आपका पेमेंट अभी तक पेंडिंग है कृपया आज ही पे कर दीजिए।
+timbre-v2.5|Poorvi|wav24k|r1|cs_04,timbre-v2.5,main,wav24k,Poorvi,cs_04,code_switch,hi-en,prisma,Roman Hindi read as Hindi,words,True,"आपका पेमेंट अभी तक पेंडिंग है, कृपया आज ही पे कर दीजिए।"
+timbre-v2.5|Poorvi|wav24k|r1|cs_04,timbre-v2.5,main,wav24k,Poorvi,cs_04,code_switch,hi-en,sarvam,kripya,words,True,आपका पेमेंट अभी तक पेंडिंग है कृपया आज ही पे कर दीजिए।
+timbre-v2.5|Poorvi|wav24k|r1|cs_04,timbre-v2.5,main,wav24k,Poorvi,cs_04,code_switch,hi-en,prisma,kripya,words,True,"आपका पेमेंट अभी तक पेंडिंग है, कृपया आज ही पे कर दीजिए।"
+timbre-v2.5|Poorvi|wav24k|r1|cs_05,timbre-v2.5,main,wav24k,Poorvi,cs_05,code_switch,hi-en,sarvam,do din,words,True,सर आपका कार्ड डिस्पैच हो गया है दो दिन में डिलीवर हो जाएगा।
+timbre-v2.5|Poorvi|wav24k|r1|cs_05,timbre-v2.5,main,wav24k,Poorvi,cs_05,code_switch,hi-en,prisma,do din,words,True,"सर, आपका कार्ड डिसपैच हो गया है, दो दिन में डिलीवर हो जाएगा।"
+timbre-v2.5|Poorvi|wav24k|r1|cs_05,timbre-v2.5,main,wav24k,Poorvi,cs_05,code_switch,hi-en,sarvam,ho jayega,words,True,सर आपका कार्ड डिस्पैच हो गया है दो दिन में डिलीवर हो जाएगा।
+timbre-v2.5|Poorvi|wav24k|r1|cs_05,timbre-v2.5,main,wav24k,Poorvi,cs_05,code_switch,hi-en,prisma,ho jayega,words,True,"सर, आपका कार्ड डिसपैच हो गया है, दो दिन में डिलीवर हो जाएगा।"
+timbre-v2.5|Poorvi|wav24k|r1|cs_06,timbre-v2.5,main,wav24k,Poorvi,cs_06,code_switch,hi-en,sarvam,madad,words,True,मैं ना आपकी मदद कर सकती हूँ बस अपना रजिस्टर्ड मोबाइल नंबर बताइए।
+timbre-v2.5|Poorvi|wav24k|r1|cs_06,timbre-v2.5,main,wav24k,Poorvi,cs_06,code_switch,hi-en,prisma,madad,words,False,"मैं न आपकी मर्दार कर सकती हूँ, बस अपना रजिस्टर्ड मोबाइल नंबर बताइये।"
+timbre-v2.5|Poorvi|wav24k|r1|cs_06,timbre-v2.5,main,wav24k,Poorvi,cs_06,code_switch,hi-en,sarvam,bataiye,words,True,मैं ना आपकी मदद कर सकती हूँ बस अपना रजिस्टर्ड मोबाइल नंबर बताइए।
+timbre-v2.5|Poorvi|wav24k|r1|cs_06,timbre-v2.5,main,wav24k,Poorvi,cs_06,code_switch,hi-en,prisma,bataiye,words,True,"मैं न आपकी मर्दार कर सकती हूँ, बस अपना रजिस्टर्ड मोबाइल नंबर बताइये।"
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_01,timbre-v2.5,main,wav24k,Kaveri,nm_en_01,names,en-IN,sarvam,Thiruvananthapuram,fuzzy,True,Thiruvananthapuram and Visakhapatnam are major cities.
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_01,timbre-v2.5,main,wav24k,Kaveri,nm_en_01,names,en-IN,prisma,Thiruvananthapuram,fuzzy,True,thiruvananthapuram and visakhapatnam are major cities
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_01,timbre-v2.5,main,wav24k,Kaveri,nm_en_01,names,en-IN,sarvam,Visakhapatnam,fuzzy,True,Thiruvananthapuram and Visakhapatnam are major cities.
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_01,timbre-v2.5,main,wav24k,Kaveri,nm_en_01,names,en-IN,prisma,Visakhapatnam,fuzzy,True,thiruvananthapuram and visakhapatnam are major cities
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_02,timbre-v2.5,main,wav24k,Kaveri,nm_en_02,names,en-IN,sarvam,Venkataraghavan,fuzzy,True,Please connect me to Mr. Venkataraghavan from the Coimbatore branch.
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_02,timbre-v2.5,main,wav24k,Kaveri,nm_en_02,names,en-IN,prisma,Venkataraghavan,fuzzy,True,please connect me to mister venkataraghavan from the coimbatore branch
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_02,timbre-v2.5,main,wav24k,Kaveri,nm_en_02,names,en-IN,sarvam,Coimbatore,fuzzy,True,Please connect me to Mr. Venkataraghavan from the Coimbatore branch.
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_02,timbre-v2.5,main,wav24k,Kaveri,nm_en_02,names,en-IN,prisma,Coimbatore,fuzzy,True,please connect me to mister venkataraghavan from the coimbatore branch
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_03,timbre-v2.5,main,wav24k,Kaveri,nm_en_03,names,en-IN,sarvam,HDFC,words,True,Your H D F C Bank and I C I C I Bank accounts are linked.
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_03,timbre-v2.5,main,wav24k,Kaveri,nm_en_03,names,en-IN,prisma,HDFC,words,True,your hdfc bank and icici bank accounts are linked
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_03,timbre-v2.5,main,wav24k,Kaveri,nm_en_03,names,en-IN,sarvam,ICICI,words,True,Your H D F C Bank and I C I C I Bank accounts are linked.
+timbre-v2.5|Kaveri|wav24k|r1|nm_en_03,timbre-v2.5,main,wav24k,Kaveri,nm_en_03,names,en-IN,prisma,ICICI,words,True,your hdfc bank and icici bank accounts are linked
+timbre-v2.5|Nalini|wav24k|r1|nm_hi_01,timbre-v2.5,main,wav24k,Nalini,nm_hi_01,names,hi-IN,sarvam,Venkateshwar,fuzzy,True,श्री वेंकटेश्वर राव जी आपका स्वागत है।
+timbre-v2.5|Nalini|wav24k|r1|nm_hi_01,timbre-v2.5,main,wav24k,Nalini,nm_hi_01,names,hi-IN,prisma,Venkateshwar,fuzzy,True,श्री वेंकटेश्वर राव जी आपका स्वागत है।
+timbre-v2.5|Nalini|wav24k|r1|nm_hi_02,timbre-v2.5,main,wav24k,Nalini,nm_hi_02,names,hi-IN,sarvam,Thiruvananthapuram,fuzzy,True,हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में हैं।
+timbre-v2.5|Nalini|wav24k|r1|nm_hi_02,timbre-v2.5,main,wav24k,Nalini,nm_hi_02,names,hi-IN,prisma,Thiruvananthapuram,fuzzy,True,हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में है।
+timbre-v2.5|Nalini|wav24k|r1|nm_hi_02,timbre-v2.5,main,wav24k,Nalini,nm_hi_02,names,hi-IN,sarvam,Visakhapatnam,fuzzy,True,हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में हैं।
+timbre-v2.5|Nalini|wav24k|r1|nm_hi_02,timbre-v2.5,main,wav24k,Nalini,nm_hi_02,names,hi-IN,prisma,Visakhapatnam,fuzzy,True,हमारी शाखाएँ तिरुवनंतपुरम और विशाखापत्तनम में है।
+timbre-v2.5|Nalini|wav24k|r1|nm_hi_03,timbre-v2.5,main,wav24k,Nalini,nm_hi_03,names,hi-IN,sarvam,HDFC,words,True,आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।
+timbre-v2.5|Nalini|wav24k|r1|nm_hi_03,timbre-v2.5,main,wav24k,Nalini,nm_hi_03,names,hi-IN,prisma,HDFC,words,True,आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।
+timbre-v2.5|Nalini|wav24k|r1|nm_hi_03,timbre-v2.5,main,wav24k,Nalini,nm_hi_03,names,hi-IN,sarvam,ICICI,words,True,आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।
+timbre-v2.5|Nalini|wav24k|r1|nm_hi_03,timbre-v2.5,main,wav24k,Nalini,nm_hi_03,names,hi-IN,prisma,ICICI,words,True,आपका एच डी एफ सी बैंक खाता आई सी आई सी आई बैंक से लिंक है।
+timbre-v2.5|Nalini|wav24k|r1|lf_hi,timbre-v2.5,main,wav24k,Nalini,lf_hi,long_form,hi-IN,sarvam,last sentence heard,words,True,नमस्ते आपकी बीमा पॉलिसी के नवीनीकरण के बारे में जानकारी देने के लिए हम आपसे संपर्क कर रहे हैं आपकी पॉलिसी अगले महीने समाप्त हो रही है इसलिए समय पर प्रीमियम जमा करना ज़रूरी है ताकि आपका बीमा कवर बिना रुकावट जारी रहे आप हमारी वेबसाइट मोबाइल ऐप या नज़दीकी शाखा में जाकर भुगतान कर सकते हैं अगर आपने हाल ही में अपना पता या मोबाइल नंबर बदला है तो कृपया उसे भी अपडेट करवा लें। ताकि ज़रूरी सूचनाएँ आप तक समय पर पहुँच सकें अगर आपको प्रीमियम की राशि या भुगतान के तरीके के बारे में कोई संदेह है तो हमारी ग्राहक सेवा टीम आपकी पूरी मदद करेगी हमारी टीम हर दिन सुबह से रात तक उपलब्ध रहती है और आप हमें कभी भी कॉल कर सकते हैं हमें अपनी सेवा का अवसर देने के लिए धन्यवाद।
+timbre-v2.5|Nalini|wav24k|r1|lf_hi,timbre-v2.5,main,wav24k,Nalini,lf_hi,long_form,hi-IN,prisma,last sentence heard,words,True,"नमस्ते आपकी बीमा पॉलिसी के नवीनीकरण के बारे में जानकारी देने के लिए हम आपसे संपर्क कर रहे हैं आपकी पॉलिसी अगले महीने समाप्त हो रही है इसलिए समय पर प्रीमियम जमा करना ज़रूरी है ताकि आपका बीमा कवर बिना रुकावट जारी रहे, आप हमारी वेबसाइट, मोबाइल एप या नजदीकी शाखा में जाकर भुगतान कर सकते हैं। अगर आपने हाल ही में अपना पता या मोबाइल नंबर बदला है तो कृपया उसे भी अपडेट करवा लें ताकि ज़रूरी सूचनाएँ आप तक समय पर पहुँच सकें, अगर आपको प्रीमियम की राशि या भुगतान के तरीके के बारे में कोई संदेह है तो हमारी ग्राहक सेवा टीम आपकी पूरी मदद करेगी, हमारी टीम हर दिन सुबह से रात तक उपलब्ध रहती है और आप हमें कभी भी कॉल कर सकते हैं हमें अपनी सेवा का अवसर देने के लिए धन्यवाद"
+timbre-v2.5|Kaveri|wav24k|r1|lf_en,timbre-v2.5,main,wav24k,Kaveri,lf_en,long_form,en-IN,sarvam,last sentence heard,words,True,"Thank you for calling customer care. We would like to inform you about some important changes to your savings account. Starting next month, the minimum balance requirement will be revised, and a monthly statement will be sent to your registered email address instead of a printed copy. If you would prefer to continue receiving printed statements, you can request this through our mobile application or at any branch. We also recommend that you enable two factor authentication for online banking, as it adds an extra layer of protection to your account. Please remember that our staff will never ask you for your password or one time password over the phone. If you receive any suspicious call or message, report it to us immediately through the helpline. We appreciate your trust in our bank and look forward to serving you."
+timbre-v2.5|Kaveri|wav24k|r1|lf_en,timbre-v2.5,main,wav24k,Kaveri,lf_en,long_form,en-IN,prisma,last sentence heard,words,True,thank you for calling customer care we would like to inform you about some important changes to your savings account starting next month the minimum balance requirement will be revised and a monthly statement will be sent to your registered email address instead of a printed copy if you would prefer to continue receiving printed statements you can request this through our mobile application or at any branch we also recommend that you enable two factor authentication for online banking as it adds an extra layer of protection to your account please remember that our staff will never ask you for your password or one time password over the phone if you receive any suspicious call or message report it to us immediately through the helpline we appreciate your trust in our bank and look forward to serving you
+timbre-v2.5|Poorvi|wav24k|r1|lf_cs,timbre-v2.5,main,wav24k,Poorvi,lf_cs,long_form,hi-en,sarvam,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे।
+timbre-v2.5|Poorvi|wav24k|r1|lf_cs,timbre-v2.5,main,wav24k,Poorvi,lf_cs,long_form,hi-en,prisma,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे
+timbre-v2.5|Nalini|wav24k|r1|tag_laugh,timbre-v2.5,main,wav24k,Nalini,tag_laugh,audio_tags,hi-IN,sarvam,<laugh> not read aloud,absent,True,आपका ऑर्डर आ गया है बहुत अच्छा चुनाव किया आपने।
+timbre-v2.5|Nalini|wav24k|r1|tag_laugh,timbre-v2.5,main,wav24k,Nalini,tag_laugh,audio_tags,hi-IN,prisma,<laugh> not read aloud,absent,True,"आपका ऑर्डर आ गया है, बहुत अच्छा चुनाव किया आपने।"
+timbre-v2.5|Kaveri|wav24k|r1|tag_sigh,timbre-v2.5,main,wav24k,Kaveri,tag_sigh,audio_tags,en-IN,sarvam,<sigh> not read aloud,absent,True,"I understand, these things happen."
+timbre-v2.5|Kaveri|wav24k|r1|tag_sigh,timbre-v2.5,main,wav24k,Kaveri,tag_sigh,audio_tags,en-IN,prisma,<sigh> not read aloud,absent,True,i understand these things happen
+timbre-v2.5|Nalini|mulaw8k|r1|num_hi_02,timbre-v2.5,telephony,mulaw8k,Nalini,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v2.5|Nalini|mulaw8k|r1|num_hi_02,timbre-v2.5,telephony,mulaw8k,Nalini,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं
+timbre-v2.5|Kaveri|mulaw8k|r1|num_en_02,timbre-v2.5,telephony,mulaw8k,Kaveri,num_en_02,numbers,en-IN,sarvam,lakh amount,words,True,A payment of two lakh fifty thousand rupees has been credited.
+timbre-v2.5|Kaveri|mulaw8k|r1|num_en_02,timbre-v2.5,telephony,mulaw8k,Kaveri,num_en_02,numbers,en-IN,prisma,lakh amount,words,True,a payment of two lakh fifty thousand rupees has been credited
+timbre-v2.5|Nalini|mulaw8k|r1|id_hi_01,timbre-v2.5,telephony,mulaw8k,Nalini,id_hi_01,identifiers,hi-IN,sarvam,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v2.5|Nalini|mulaw8k|r1|id_hi_01,timbre-v2.5,telephony,mulaw8k,Nalini,id_hi_01,identifiers,hi-IN,prisma,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v2.5|Kaveri|mulaw8k|r1|id_en_01,timbre-v2.5,telephony,mulaw8k,Kaveri,id_en_01,identifiers,en-IN,sarvam,phone,digits,True,My mobile number is nine eight seven six five four three two one zero.
+timbre-v2.5|Kaveri|mulaw8k|r1|id_en_01,timbre-v2.5,telephony,mulaw8k,Kaveri,id_en_01,identifiers,en-IN,prisma,phone,digits,True,my mobile number is nine eight seven six five four three two one zero
+timbre-v2.5|Nalini|wav24k|r2|num_hi_02,timbre-v2.5,repeat,wav24k,Nalini,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v2.5|Nalini|wav24k|r2|num_hi_02,timbre-v2.5,repeat,wav24k,Nalini,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v2.5|Nalini|wav24k|r3|num_hi_02,timbre-v2.5,repeat,wav24k,Nalini,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v2.5|Nalini|wav24k|r3|num_hi_02,timbre-v2.5,repeat,wav24k,Nalini,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं
+timbre-v2.5|Nalini|wav24k|r2|id_hi_02,timbre-v2.5,repeat,wav24k,Nalini,id_hi_02,identifiers,hi-IN,sarvam,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Nalini|wav24k|r2|id_hi_02,timbre-v2.5,repeat,wav24k,Nalini,id_hi_02,identifiers,hi-IN,prisma,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Nalini|wav24k|r2|id_hi_02,timbre-v2.5,repeat,wav24k,Nalini,id_hi_02,identifiers,hi-IN,sarvam,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Nalini|wav24k|r2|id_hi_02,timbre-v2.5,repeat,wav24k,Nalini,id_hi_02,identifiers,hi-IN,prisma,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Nalini|wav24k|r3|id_hi_02,timbre-v2.5,repeat,wav24k,Nalini,id_hi_02,identifiers,hi-IN,sarvam,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Nalini|wav24k|r3|id_hi_02,timbre-v2.5,repeat,wav24k,Nalini,id_hi_02,identifiers,hi-IN,prisma,OTP,digits,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Nalini|wav24k|r3|id_hi_02,timbre-v2.5,repeat,wav24k,Nalini,id_hi_02,identifiers,hi-IN,sarvam,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Nalini|wav24k|r3|id_hi_02,timbre-v2.5,repeat,wav24k,Nalini,id_hi_02,identifiers,hi-IN,prisma,OTP spelled,words,True,आपका ओ टी पी चार आठ दो नौ एक तीन है।
+timbre-v2.5|Deepak|wav24k|r1|num_hi_01,timbre-v2.5,voices,wav24k,Deepak,num_hi_01,numbers,hi-IN,sarvam,amount,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v2.5|Deepak|wav24k|r1|num_hi_01,timbre-v2.5,voices,wav24k,Deepak,num_hi_01,numbers,hi-IN,prisma,amount,words,True,आपकी ई एम आई बारह हज़ार पांच सौ रुपए है।
+timbre-v2.5|Deepak|wav24k|r1|num_hi_01,timbre-v2.5,voices,wav24k,Deepak,num_hi_01,numbers,hi-IN,sarvam,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v2.5|Deepak|wav24k|r1|num_hi_01,timbre-v2.5,voices,wav24k,Deepak,num_hi_01,numbers,hi-IN,prisma,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पांच सौ रुपए है।
+timbre-v2.5|Urmila|wav24k|r1|num_hi_01,timbre-v2.5,voices,wav24k,Urmila,num_hi_01,numbers,hi-IN,sarvam,amount,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v2.5|Urmila|wav24k|r1|num_hi_01,timbre-v2.5,voices,wav24k,Urmila,num_hi_01,numbers,hi-IN,prisma,amount,words,True,आपकी ई एम आई बारह हज़ार पांच सौ रुपए है।
+timbre-v2.5|Urmila|wav24k|r1|num_hi_01,timbre-v2.5,voices,wav24k,Urmila,num_hi_01,numbers,hi-IN,sarvam,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पाँच सौ रुपये है।
+timbre-v2.5|Urmila|wav24k|r1|num_hi_01,timbre-v2.5,voices,wav24k,Urmila,num_hi_01,numbers,hi-IN,prisma,EMI spelled,words,True,आपकी ई एम आई बारह हज़ार पांच सौ रुपए है।
+timbre-v2.5|Deepak|wav24k|r1|num_hi_02,timbre-v2.5,voices,wav24k,Deepak,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v2.5|Deepak|wav24k|r1|num_hi_02,timbre-v2.5,voices,wav24k,Deepak,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं
+timbre-v2.5|Urmila|wav24k|r1|num_hi_02,timbre-v2.5,voices,wav24k,Urmila,num_hi_02,numbers,hi-IN,sarvam,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं।
+timbre-v2.5|Urmila|wav24k|r1|num_hi_02,timbre-v2.5,voices,wav24k,Urmila,num_hi_02,numbers,hi-IN,prisma,lakh amount,words,True,आपके खाते में दो लाख पचास हज़ार रुपये जमा हुए हैं
+timbre-v2.5|Deepak|wav24k|r1|id_hi_01,timbre-v2.5,voices,wav24k,Deepak,id_hi_01,identifiers,hi-IN,sarvam,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v2.5|Deepak|wav24k|r1|id_hi_01,timbre-v2.5,voices,wav24k,Deepak,id_hi_01,identifiers,hi-IN,prisma,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v2.5|Urmila|wav24k|r1|id_hi_01,timbre-v2.5,voices,wav24k,Urmila,id_hi_01,identifiers,hi-IN,sarvam,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v2.5|Urmila|wav24k|r1|id_hi_01,timbre-v2.5,voices,wav24k,Urmila,id_hi_01,identifiers,hi-IN,prisma,phone,digits,True,मेरा मोबाइल नंबर नौ आठ सात छह पाँच चार तीन दो एक शून्य है।
+timbre-v2.5|Poorvi|wav24k|r2|lf_cs,timbre-v2.5,probe,wav24k,Poorvi,lf_cs,long_form,hi-en,sarvam,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे।
+timbre-v2.5|Poorvi|wav24k|r2|lf_cs,timbre-v2.5,probe,wav24k,Poorvi,lf_cs,long_form,hi-en,prisma,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे
+timbre-v2.5|Poorvi|wav24k|r3|lf_cs,timbre-v2.5,probe,wav24k,Poorvi,lf_cs,long_form,hi-en,sarvam,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे।
+timbre-v2.5|Poorvi|wav24k|r3|lf_cs,timbre-v2.5,probe,wav24k,Poorvi,lf_cs,long_form,hi-en,prisma,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे
+timbre-v2.5|Poorvi|wav24k|r4|lf_cs,timbre-v2.5,probe,wav24k,Poorvi,lf_cs,long_form,hi-en,sarvam,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी ना लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉग इन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे।
+timbre-v2.5|Poorvi|wav24k|r4|lf_cs,timbre-v2.5,probe,wav24k,Poorvi,lf_cs,long_form,hi-en,prisma,last sentence heard,words,True,सर आपके क्रेडिट कार्ड पर इस महीने का बिल जेनरेट हो गया है आप ड्यू डेट से पहले पेमेंट कर दीजिए ताकि लेट फ़ी न लगे अगर आप पूरा अमाउंट एक साथ पे नहीं कर सकते तो आप ई एम आई में कन्वर्ट करने का ऑप्शन भी चुन सकते हैं इसके लिए आप हमारे मोबाइल ऐप में लॉगिन करके कार्ड सेक्शन में जाइए कोई भी डाउट हो तो हमारी टीम से बात कीजिए हम आपकी पूरी हेल्प करेंगे
