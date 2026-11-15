@@ -1,0 +1,17 @@
+numpy>=1.26
+pandas>=2.1
+scipy>=1.11
+matplotlib>=3.8
+requests>=2.31
+soundfile>=0.12
+pyarrow>=14
+huggingface_hub>=0.23
+fsspec>=2023.12
+jiwer>=3.0
+jupyterlab>=4.0
+ipykernel>=6.29
+# Part 2 (Timbre TTS)
+librosa>=0.10
+websockets>=12
+torch>=2.2            # CPU build is enough: pip install torch --index-url https://download.pytorch.org/whl/cpu
+speechmos @ git+https://github.com/tarepan/SpeechMOS@v1.2.0
